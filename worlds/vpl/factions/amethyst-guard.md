@@ -12,6 +12,11 @@ An organization of adventurers with a council of leadership.
 - [Lord Eerek](../characters/pcs/lord-eerek.md)
 - [Lady Arka](../characters/pcs/lady-arka.md)
 - [Headless](../characters/pcs/headless.md)
+- [Droon Toon](../characters/pcs/droon-toon.md)
+- [Egilflametap](../characters/pcs/egilflametap.md)
+- [Bery](../characters/pcs/bery.md)
+- [Nayaht](../characters/pcs/nayaht.md)
+- [Rin](../characters/pcs/rin.md)
 - 16 sailors recruited in [session-2024-10-13](../sessions/session-2024-10-13.md), none named
 
 ## Assets
@@ -23,3 +28,4 @@ An organization of adventurers with a council of leadership.
 
 - Where the Guard is based is not recorded.
 - In [session-2024-11-01](../sessions/session-2024-11-01.md), [Maze](../characters/pcs/maze.md), [Moress](../characters/pcs/moress.md), and [Egilflametap](../characters/pcs/egilflametap.md) recovered here after escaping a temple back to Neverwinter.
+- In [session-2024-12-08](../sessions/session-2024-12-08.md), five members worked with the Neverwinter Town Guard to stop a string of shop break-ins.

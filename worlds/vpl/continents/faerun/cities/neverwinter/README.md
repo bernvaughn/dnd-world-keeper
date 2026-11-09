@@ -12,6 +12,8 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 
 - [Adore Ore](locations/adore-ore.md): blacksmith shop run by Nylit
 - [The Akward Canvas](locations/akward-canvas.md): shop run by Leera
+- [The Blue Crate](locations/the-blue-crate.md): shop linked to Nimbus
+- [The Weeping Dish](locations/the-weeping-dish.md): shop linked to Rurik and Nissa
 - [Docks](locations/docks.md): harbor, overseen by Harbor Master Karenaise
 - [Blood Orc's Fist](locations/blood-orcs-fist.md): gladiator arena
 
@@ -23,6 +25,9 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 - [Captain Orion Darkwater](../../../../characters/npcs/orion-darkwater.md), captain of the Eternal Emissary
 - [Rattarack](../../../../characters/npcs/rattarack.md), minotaur arena champion
 - [Golric](../../../../characters/npcs/golric.md), lives in Neverwinter
+- [Nimbus](../../../../characters/npcs/nimbus.md), linked to The Blue Crate
+- [Rurik](../../../../characters/npcs/rurik.md) and [Nissa](../../../../characters/npcs/nissa.md), linked to The Weeping Dish
+- [Brimstone Whisk](../../../../characters/npcs/brimstone-whisk.md), trash pickup man, killed by goblins
 
 ## Factions
 
@@ -37,4 +42,5 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 
 - [session-2024-10-13](../../../../sessions/session-2024-10-13.md)
 - [session-2024-11-01](../../../../sessions/session-2024-11-01.md)
+- [session-2024-12-08](../../../../sessions/session-2024-12-08.md)
 - [session-2025-11-09](../../../../sessions/session-2025-11-09.md)

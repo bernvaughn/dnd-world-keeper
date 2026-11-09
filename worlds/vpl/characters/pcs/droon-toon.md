@@ -1,6 +1,6 @@
 # Droon Toon
 
-Human Cleric, raised by dwarves. Player character.
+Human Cleric, raised by dwarves. Player character. Member of the [Amethyst Guard](../../factions/amethyst-guard.md).
 
 ## Notes
 
@@ -9,4 +9,5 @@ Human Cleric, raised by dwarves. Player character.
 
 ## Sessions
 
+- [session-2024-12-08](../../sessions/session-2024-12-08.md)
 - [session-2025-11-09](../../sessions/session-2025-11-09.md)
