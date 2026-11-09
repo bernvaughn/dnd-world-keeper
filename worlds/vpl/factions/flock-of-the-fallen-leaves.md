@@ -17,6 +17,12 @@ Eight in total. Four took part in the wagon raids, and which four is not recorde
 
 Mottle, Sedge, Tatter, and Crook have no files. Nothing else about them is recorded.
 
+## History
+
+Established by the owner after the sessions.
+
+- The gang found [Zhudee the Grand](../characters/npcs/zhudee-the-grand.md)'s lamp in ruins and got three wishes: a feast, then to live as powerful goblins so they would never pay for food again, then to free the genie. [Pip](../characters/npcs/pip.md) convinced the flock to free him, and they threw the cracked lamp into a sinkhole for fun.
+
 ## Base
 
 The [Gobble-in estate](../continents/faerun/locations/gobble-in-estate.md).
