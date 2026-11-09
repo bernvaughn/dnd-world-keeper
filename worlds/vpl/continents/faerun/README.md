@@ -18,4 +18,5 @@ _To be written._
   - [Goldrat Hoard](locations/goldrat-hoard.md)
   - [Candlemere Stables](locations/candlemere-stables.md)
   - [Farrowdeep Mine](locations/farrowdeep-mine.md)
+  - [Szessith's Embrace](locations/szessiths-embrace.md)
   - [Gobble-in Estate](locations/gobble-in-estate.md)
