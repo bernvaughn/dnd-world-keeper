@@ -36,7 +36,7 @@ worlds/<world>/
 - **Character detail lives in one place:** `worlds/<world>/characters/pcs/<slug>.md` (player characters) and `worlds/<world>/characters/npcs/<slug>.md` (non-player characters) hold all detailed character information. A location file lists the characters found there with a one-line blurb and a relative link to the character file. Do not duplicate character detail in locations.
 - **This is a public repo:** never record real player names or anything that could identify the people at the table. Refer to player characters by character name only. Pasted notes may map players to characters, or mention who attended, swapped characters, or stopped coming. Use the character names only and leave out everything about the players.
 - **Sessions:** named `session-YYYY-MM-DD.md` by the date played.
-- **Unknowns:** when something is not recorded, write "not recorded" instead of guessing. Keep open questions visible.
+- **Unknowns:** when something is not recorded, write "not recorded" instead of guessing. Keep open questions visible. Character and place spellings sometimes vary between sessions (for example Ziri and Zuri). Keep every variant, note it in the file, and watch for more in future notes instead of picking one yourself.
 - **Links:** use relative links between files, for example `../../../../../characters/npcs/mara-voss.md` from a city location file. Keep slugs short, since links get long at this depth.
 - **Cities** are folders (`cities/<slug>/README.md` plus `cities/<slug>/locations/`). **Locations** are single files unless they need to grow into a folder.
 - **Empty folders** hold a `.gitkeep`. Delete it once real content is added.

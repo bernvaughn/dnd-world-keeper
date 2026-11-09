@@ -16,6 +16,7 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 - [The Weeping Dish](locations/the-weeping-dish.md): shop linked to Rurik and Nissa
 - [Borquum House](locations/borquum-house.md): home of Ilxaxergesh Borquum
 - [Docks](locations/docks.md): harbor, overseen by Harbor Master Karenaise
+- [The Old Grape Pharmacy](locations/old-grape-pharmacy.md): pharmacy with a locked back room
 - [Blood Orc's Fist](locations/blood-orcs-fist.md): gladiator arena
 
 ## Characters
@@ -37,11 +38,13 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 
 - [Tribe of the Last Charge](../../../../factions/tribe-of-the-last-charge.md), minotaurs who send volunteers to the arena
 - [Demons from the Akward Canvas](../../../../factions/demons-from-the-akward-canvas.md), the Amethyst Guard's name for the demons behind the shop
+- [Bring-Your-Own-Ship Cruises](../../../../factions/bring-your-own-ship-cruises.md), tortle charter cruise company used by Ilxaxergesh Borquum
 
 ## Ships
 
 - [Eternal Emissary](../../../../ships/eternal-emissary.md)
 - [Cotswald](../../../../ships/cotswald.md)
+- [Slow and Steady](../../../../ships/slow-and-steady.md) and [The Cold Cup](../../../../ships/the-cold-cup.md), both presumed lost at sea
 
 ## Sessions
 
@@ -50,4 +53,5 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 - [session-2024-12-08](../../../../sessions/session-2024-12-08.md)
 - [session-2025-05-04](../../../../sessions/session-2025-05-04.md)
 - [session-2025-07-13](../../../../sessions/session-2025-07-13.md)
+- [session-2025-08-03](../../../../sessions/session-2025-08-03.md)
 - [session-2025-11-09](../../../../sessions/session-2025-11-09.md)

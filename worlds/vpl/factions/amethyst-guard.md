@@ -20,6 +20,7 @@ An organization of adventurers with a council of leadership.
 - [Willow](../characters/pcs/willow.md)
 - [Genji](../characters/pcs/genji.md)
 - [Astrid](../characters/pcs/astrid.md)
+- [Strange](../characters/pcs/strange.md)
 - [Egil Flametrap](../characters/pcs/egil-flametrap.md)
 - [Bery](../characters/pcs/bery.md)
 - [Nayaht](../characters/pcs/nayaht.md)
@@ -44,3 +45,4 @@ An organization of adventurers with a council of leadership.
 - In [session-2025-01-12](../sessions/session-2025-01-12.md), five members went undercover to [Revel's End](../continents/faerun/locations/revels-end.md) to break out a prisoner, and failed. The adventure ended on a cliffhanger, and their return to the Guard was handwaved.
 - In [session-2025-05-04](../sessions/session-2025-05-04.md), five members recovered a family heirloom for an old dragonborn in Neverwinter, and uncovered a contract on one of their own at The Akward Canvas.
 - In [session-2025-07-13](../sessions/session-2025-07-13.md), six members were captured at [Carpus Catfig](../characters/npcs/carpus-catfig.md)'s dinner party in Neverwinter and escaped by killing him.
+- In [session-2025-08-03](../sessions/session-2025-08-03.md), four members sailed to retrieve a cursed tea set. [Ziri](../characters/pcs/ziri.md) and [Olus](../characters/pcs/olus.md) died for good, and [Strange](../characters/pcs/strange.md) died and was later resurrected as a Hallowed One. [Astrid](../characters/pcs/astrid.md) was the sole survivor.
