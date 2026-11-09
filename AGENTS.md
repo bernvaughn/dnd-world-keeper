@@ -20,6 +20,7 @@ worlds/<world>/
 ├── sessions/
 ├── factions/
 ├── items/
+├── ships/
 └── continents/<continent>/
     ├── README.md
     ├── locations/                  # points of interest outside cities
@@ -45,4 +46,5 @@ worlds/<world>/
 - Do not invent lore, characters, or rules and present them as established. When filling a gap, ask the owner or mark the text clearly as a proposal.
 - Preserve the owner's wording and decisions when editing existing files.
 - Do not create new top-level folders or restructure the layout without asking.
+- When the owner pastes session notes, follow [skills/session-intake/SKILL.md](skills/session-intake/SKILL.md). Never write files before the owner has approved the plan.
 - Reusable agent skills go in `skills/`. Add them only when the owner asks, and list each in `skills/README.md`.

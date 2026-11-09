@@ -22,11 +22,18 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 - [Karenaise](../../../../characters/npcs/karenaise.md), Harbor Master
 - [Captain Orion Darkwater](../../../../characters/npcs/orion-darkwater.md), captain of the Eternal Emissary
 - [Rattarack](../../../../characters/npcs/rattarack.md), minotaur arena champion
+- [Golric](../../../../characters/npcs/golric.md), lives in Neverwinter
 
 ## Factions
 
 - [Tribe of the Last Charge](../../../../factions/tribe-of-the-last-charge.md), minotaurs who send volunteers to the arena
 
+## Ships
+
+- [Eternal Emissary](../../../../ships/eternal-emissary.md)
+- [Cotswald](../../../../ships/cotswald.md)
+
 ## Sessions
 
+- [session-2024-10-13](../../../../sessions/session-2024-10-13.md)
 - [session-2025-11-09](../../../../sessions/session-2025-11-09.md)

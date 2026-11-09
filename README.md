@@ -23,6 +23,7 @@ worlds/
     ├── sessions/      session logs and recaps
     ├── factions/      organizations and groups
     ├── items/         notable items
+    ├── ships/         ships and vessels
     └── continents/
         └── <continent>/
             ├── README.md

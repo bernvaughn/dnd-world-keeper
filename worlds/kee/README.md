@@ -12,5 +12,6 @@ _To be written._
 - [`sessions/`](sessions/) session logs and recaps
 - [`factions/`](factions/) organizations and groups
 - [`items/`](items/) notable items
+- [`ships/`](ships/) ships and vessels
 - [`continents/sead/`](continents/sead/README.md) the continent of Sead
 - [`continents/xianhua/`](continents/xianhua/README.md) the continent of Xianhua

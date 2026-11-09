@@ -1,6 +1,6 @@
 # Captain Orion Darkwater
 
-Dwarf. Captain of the Eternal Emissary, a ship crewed by dwarves.
+Dwarf. Captain of the [Eternal Emissary](../../ships/eternal-emissary.md), a ship crewed by dwarves.
 
 ## Notes
 
