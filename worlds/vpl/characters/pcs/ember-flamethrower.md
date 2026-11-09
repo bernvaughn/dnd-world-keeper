@@ -11,9 +11,12 @@ Female Fire Genasi Fighter. Player character. Member of the [Amethyst Guard](../
 - In [session-2025-07-13](../../sessions/session-2025-07-13.md), refused every dish at the Mad Hatter's dinner party, broke free, and attacked. She killed [Carpus Catfig](../npcs/carpus-catfig.md).
 - In [session-2025-09-14](../../sessions/session-2025-09-14.md), made no deal with [Zhudee the Grand](../npcs/zhudee-the-grand.md) and escaped the Freedom Athenaeum with [Oggy](oggy.md), dodging water elementals.
 
+- In [session-2026-01-18](../../sessions/session-2026-01-18.md), helped clear and secure [Castle Coinfall](../../continents/faerun/locations/castle-coinfall.md) for [Borquum Holdings](../../factions/borquum-holdings.md).
+
 ## Sessions
 
 - [session-2025-05-04](../../sessions/session-2025-05-04.md)
 - [session-2025-07-13](../../sessions/session-2025-07-13.md)
 - [session-2025-09-14](../../sessions/session-2025-09-14.md)
 - [session-2025-11-09](../../sessions/session-2025-11-09.md)
+- [session-2026-01-18](../../sessions/session-2026-01-18.md)
