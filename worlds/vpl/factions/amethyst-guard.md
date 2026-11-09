@@ -42,6 +42,9 @@ An organization of adventurers with a council of leadership.
 - [Bryn Aeler Sr.](../characters/pcs/bryn-aeler-sr.md)
 - 16 sailors recruited in [session-2024-10-13-dm1](../sessions/session-2024-10-13-dm1.md), none named
 
+- [Lord Pezz](../characters/npcs/lord-pezz.md): member, NPC
+- [Labor](../characters/npcs/labor.md): an architect who works for the Guard
+
 ## Assets
 
 - [Cotswald](../ships/cotswald.md), a sloop
@@ -64,3 +67,4 @@ An organization of adventurers with a council of leadership.
 - In [session-2026-09-13-dm1](../sessions/session-2026-09-13-dm1.md), five members kept the island library [Candlemere Stables](../continents/faerun/locations/candlemere-stables.md) running for devil patrons from the [Collegium Infernalis](collegium-infernalis.md) after its librarian vanished, and defeated a ghost gorgon.
 - In [session-2026-10-11-dm1](../sessions/session-2026-10-11-dm1.md), [Lord Eerek](../characters/pcs/lord-eerek.md), [Strange](../characters/pcs/strange.md), and [Kronos](../characters/pcs/kronos.md) found out why the apples of [Bramblewick](../continents/faerun/cities/bramblewick/README.md) rotted, and jailed the false mayor.
 - In [session-2026-11-08-dm1](../sessions/session-2026-11-08-dm1.md), four members stopped the Gobble-ins' wagon raids south of Neverwinter. [Cluckbane](../characters/npcs/cluckbane.md) hopes to join the Guard after a year of road-warden service, which is unrelated to the Guard.
+- In [session-2024-11-17-dm2](../sessions/session-2024-11-17-dm2.md), a Discord post says the Guard was rebuilding after a big dragon attack that ravaged its headquarters. When that happened, the dragon, and where the headquarters is are not recorded. Three members went to [Dis](../continents/hell/cities/dis/README.md) in Hell and rescued [Labor](../characters/npcs/labor.md) from the Mentiri, with a lead from [Lord Pezz](../characters/npcs/lord-pezz.md).

@@ -23,3 +23,4 @@ _None recorded yet._
 - [`items/`](items/) notable items
 - [`ships/`](ships/) ships and vessels
 - [`continents/faerun/`](continents/faerun/README.md) the continent of Faerun
+- [`continents/hell/`](continents/hell/README.md) Hell, which holds Dis and Infernus
