@@ -34,6 +34,9 @@ An organization of adventurers with a council of leadership.
 - [Rin](../characters/pcs/rin.md)
 - [Chloe Amastacia](../characters/pcs/chloe-amastacia.md)
 - [Gerard Esoog](../characters/pcs/gerard-esoog.md)
+- [Atlas](../characters/pcs/atlas.md)
+- [Baldric](../characters/pcs/baldric.md)
+- [Sir Doug](../characters/pcs/sir-doug.md)
 - [Ziri](../characters/pcs/ziri.md)
 - [Alerin](../characters/pcs/alerin.md)
 - [Bryn Aeler Sr.](../characters/pcs/bryn-aeler-sr.md)
@@ -59,3 +62,4 @@ An organization of adventurers with a council of leadership.
 - In [session-2026-04-12](../sessions/session-2026-04-12.md), members including [Astrid Tealeaf](../characters/pcs/astrid.md) and [Kronos](../characters/pcs/kronos.md) recovered the Lost Lamp of Rhozire from the [Goldrat Hoard](../continents/faerun/locations/goldrat-hoard.md) for the collector [Myenceth Rhozire](../characters/npcs/myenceth-rhozire.md).
 - In [session-2026-09-13](../sessions/session-2026-09-13.md), five members kept the island library [Candlemere Stables](../continents/faerun/locations/candlemere-stables.md) running for devil patrons from the [Collegium Infernalis](collegium-infernalis.md) after its librarian vanished, and defeated a ghost gorgon.
 - In [session-2026-10-11](../sessions/session-2026-10-11.md), [Lord Eerek](../characters/pcs/lord-eerek.md), [Strange](../characters/pcs/strange.md), and [Kronos](../characters/pcs/kronos.md) found out why the apples of [Bramblewick](../continents/faerun/cities/bramblewick/README.md) rotted, and jailed the false mayor.
+- In [session-2026-11-08](../sessions/session-2026-11-08.md), four members stopped the Gobble-ins' wagon raids south of Neverwinter. [Cluckbane](../characters/npcs/cluckbane.md) hopes to join the Guard after a year of road-warden service, which is unrelated to the Guard.

@@ -15,6 +15,8 @@ Female Fire Genasi Fighter. Player character. Member of the [Amethyst Guard](../
 
 - In [session-2026-09-13](../../sessions/session-2026-09-13.md), helped keep [Candlemere Stables](../../continents/faerun/locations/candlemere-stables.md) running for its devil patrons and defeated a ghost gorgon.
 
+- In [session-2026-11-08](../../sessions/session-2026-11-08.md), found a roster of the eight Gobble-ins and a magical echo near the [cracked genie lamp](../../items/cracked-genie-lamp.md), and split the loot with [Sir Doug](sir-doug.md).
+
 ## Sessions
 
 - [session-2025-05-04](../../sessions/session-2025-05-04.md)
@@ -23,3 +25,4 @@ Female Fire Genasi Fighter. Player character. Member of the [Amethyst Guard](../
 - [session-2025-11-09](../../sessions/session-2025-11-09.md)
 - [session-2026-01-18](../../sessions/session-2026-01-18.md)
 - [session-2026-09-13](../../sessions/session-2026-09-13.md)
+- [session-2026-11-08](../../sessions/session-2026-11-08.md)
