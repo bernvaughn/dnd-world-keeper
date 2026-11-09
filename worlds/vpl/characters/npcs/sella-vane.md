@@ -4,8 +4,8 @@ Elf. Town clerk of [Bramblewick](../../continents/faerun/cities/bramblewick/READ
 
 ## Notes
 
-- Stayed on as acting mayor after the party threw [Tilda Brasspick](tilda-brasspick.md), the false mayor, in jail. See [session-2026-10-11](../../sessions/session-2026-10-11.md).
+- Stayed on as acting mayor after the party threw [Tilda Brasspick](tilda-brasspick.md), the false mayor, in jail. See [session-2026-10-11-dm1](../../sessions/session-2026-10-11-dm1.md).
 
 ## Sessions
 
-- [session-2026-10-11](../../sessions/session-2026-10-11.md)
+- [session-2026-10-11-dm1](../../sessions/session-2026-10-11-dm1.md)

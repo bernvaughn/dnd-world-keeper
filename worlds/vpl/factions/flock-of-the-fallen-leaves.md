@@ -29,4 +29,4 @@ The [Gobble-in estate](../continents/faerun/locations/gobble-in-estate.md).
 
 ## Notes
 
-- In [session-2026-11-08](../sessions/session-2026-11-08.md), the party backed down. Gobb offered the flock's loot and an end to the raids. [Cluckbane](../characters/npcs/cluckbane.md) was tried in Neverwinter and sentenced to restitution and a year of supervised road-warden service.
+- In [session-2026-11-08-dm1](../sessions/session-2026-11-08-dm1.md), the party backed down. Gobb offered the flock's loot and an end to the raids. [Cluckbane](../characters/npcs/cluckbane.md) was tried in Neverwinter and sentenced to restitution and a year of supervised road-warden service.

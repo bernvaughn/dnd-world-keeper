@@ -40,6 +40,6 @@ worlds/
 - File and folder names are lowercase kebab-case slugs (for example `old-mill-tavern`).
 - Full character detail lives only in the world-level `characters/pcs/` and `characters/npcs/` folders. Locations list the characters found there with a short blurb and a relative link back.
 - This is a public repo, so real player names are never recorded. Player characters are referred to by character name only.
-- Session files are named `session-YYYY-MM-DD.md`.
+- Session files are named `session-YYYY-MM-DD-dmN.md`, with the date played and an opaque DM code. The repo never records who a code belongs to.
 
 See [AGENTS.md](AGENTS.md) for the full rules agents follow when working in this repo.

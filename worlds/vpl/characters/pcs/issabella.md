@@ -4,4 +4,4 @@ High elf. Player character. Member of the [Amethyst Guard](../../factions/amethy
 
 ## Sessions
 
-- [session-2025-05-04](../../sessions/session-2025-05-04.md)
+- [session-2025-05-04-dm1](../../sessions/session-2025-05-04-dm1.md)

@@ -7,4 +7,4 @@ A genie's lamp, cracked and powerless. The [Gobble-ins](../factions/flock-of-the
 - Held [Zhudee the Grand](../characters/npcs/zhudee-the-grand.md) until he was freed. Established by the owner after the sessions.
 - Found in ruins, unnamed, by the bandit gang that became the Gobble-ins. They got three wishes: a feast, then to live as powerful goblins so they would never pay for food again, then to free the genie.
 - The lamp cracked when Zhudee was freed. The flock threw it into the sinkhole for fun.
-- Tossed into a sinkhole at the [Gobble-in estate](../continents/faerun/locations/gobble-in-estate.md). In [session-2026-11-08](../sessions/session-2026-11-08.md), [Ember](../characters/pcs/ember-flamethrower.md) found a harmless magical echo of the transformation there.
+- Tossed into a sinkhole at the [Gobble-in estate](../continents/faerun/locations/gobble-in-estate.md). In [session-2026-11-08-dm1](../sessions/session-2026-11-08-dm1.md), [Ember](../characters/pcs/ember-flamethrower.md) found a harmless magical echo of the transformation there.

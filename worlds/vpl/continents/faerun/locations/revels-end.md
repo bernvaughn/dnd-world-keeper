@@ -8,7 +8,7 @@ From the published adventure "Prisoner 13" in *Keys from the Golden Vault*, plac
 
 ## Areas
 
-- **Absolution chamber:** visited by the party in [session-2025-01-12](../../../sessions/session-2025-01-12.md).
+- **Absolution chamber:** visited by the party in [session-2025-01-12-dm1](../../../sessions/session-2025-01-12-dm1.md).
 - **Warden's office:** where the party talked to the warden, and where the list of crimes was kept.
 - **Vault:** its key was part of the deal the party made with prisoner 13. What it holds is not recorded.
 
@@ -16,7 +16,7 @@ From the published adventure "Prisoner 13" in *Keys from the Golden Vault*, plac
 
 - Held 21 prisoners at the time of the party's visit, including prisoner 13.
 - Staff reach the island by boat.
-- In [session-2025-01-12](../../../sessions/session-2025-01-12.md), the guard captain died in a battle, and the warden teleported away with Dimension Door and raised a high alert.
+- In [session-2025-01-12-dm1](../../../sessions/session-2025-01-12-dm1.md), the guard captain died in a battle, and the warden teleported away with Dimension Door and raised a high alert.
 - The names of the warden, the guard captain, and prisoner 13 are not recorded.
 
 ## Characters

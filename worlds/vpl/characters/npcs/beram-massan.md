@@ -10,4 +10,4 @@ Librarian. A recent hire to the senior board of librarians at the [Freedom Athen
 
 ## Sessions
 
-- [session-2025-09-14](../../sessions/session-2025-09-14.md)
+- [session-2025-09-14-dm1](../../sessions/session-2025-09-14-dm1.md)

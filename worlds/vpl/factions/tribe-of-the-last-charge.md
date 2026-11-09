@@ -13,4 +13,4 @@ Members who want to die in combat and be made into weapons are sent to the [Bloo
 
 ## History
 
-- The seven most recent volunteers became the reigning champions of the arena. The party defeated them in [session-2025-11-09](../sessions/session-2025-11-09.md).
+- The seven most recent volunteers became the reigning champions of the arena. The party defeated them in [session-2025-11-09-dm1](../sessions/session-2025-11-09-dm1.md).

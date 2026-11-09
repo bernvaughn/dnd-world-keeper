@@ -4,8 +4,8 @@ Druid. Race is not recorded. Player character. Member of the [Amethyst Guard](..
 
 ## Notes
 
-- In [session-2026-11-08](../../sessions/session-2026-11-08.md), knocked [Pip](../npcs/pip.md) unconscious. Afterward, wants to become [Cluckbane](../npcs/cluckbane.md)'s best friend.
+- In [session-2026-11-08-dm1](../../sessions/session-2026-11-08-dm1.md), knocked [Pip](../npcs/pip.md) unconscious. Afterward, wants to become [Cluckbane](../npcs/cluckbane.md)'s best friend.
 
 ## Sessions
 
-- [session-2026-11-08](../../sessions/session-2026-11-08.md)
+- [session-2026-11-08-dm1](../../sessions/session-2026-11-08-dm1.md)

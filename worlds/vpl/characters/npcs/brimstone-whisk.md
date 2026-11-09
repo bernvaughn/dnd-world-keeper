@@ -10,4 +10,4 @@ Trash pickup man in Neverwinter, a sanitation expert. Race is not recorded.
 
 ## Sessions
 
-- [session-2024-12-08](../../sessions/session-2024-12-08.md)
+- [session-2024-12-08-dm1](../../sessions/session-2024-12-08-dm1.md)

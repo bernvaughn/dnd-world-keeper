@@ -4,8 +4,8 @@ Linked to [The Blue Crate](../../continents/faerun/cities/neverwinter/locations/
 
 ## Notes
 
-- The Blue Crate was the second shop robbed in [session-2024-12-08](../../sessions/session-2024-12-08.md).
+- The Blue Crate was the second shop robbed in [session-2024-12-08-dm1](../../sessions/session-2024-12-08-dm1.md).
 
 ## Sessions
 
-- [session-2024-12-08](../../sessions/session-2024-12-08.md)
+- [session-2024-12-08-dm1](../../sessions/session-2024-12-08-dm1.md)

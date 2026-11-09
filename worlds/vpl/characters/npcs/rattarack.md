@@ -10,4 +10,4 @@ Minotaur. The biggest of the seven minotaurs who became the reigning champions o
 
 ## Sessions
 
-- [session-2025-11-09](../../sessions/session-2025-11-09.md)
+- [session-2025-11-09-dm1](../../sessions/session-2025-11-09-dm1.md)

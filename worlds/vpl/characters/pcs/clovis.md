@@ -14,4 +14,4 @@ Has a scary pirate background.
 
 ## Sessions
 
-- [session-2025-11-09](../../sessions/session-2025-11-09.md)
+- [session-2025-11-09-dm1](../../sessions/session-2025-11-09-dm1.md)

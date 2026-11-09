@@ -12,7 +12,7 @@ One of Neverwinter's great libraries, once the city's most prestigious. [Zhudee 
 
 ## Amethyst Guard perks
 
-Members of the [Amethyst Guard](../../../../../factions/amethyst-guard.md) are offered one free foot soak, half-price aromatic steam sessions, and priority booking for a planned Library Lounge. The Library Lounge is promised once the Guard completes its arrangement with Zhudee. See the open thread in [session-2025-09-14](../../../../../sessions/session-2025-09-14.md).
+Members of the [Amethyst Guard](../../../../../factions/amethyst-guard.md) are offered one free foot soak, half-price aromatic steam sessions, and priority booking for a planned Library Lounge. The Library Lounge is promised once the Guard completes its arrangement with Zhudee. See the open thread in [session-2025-09-14-dm1](../../../../../sessions/session-2025-09-14-dm1.md).
 
 ## Characters
 
@@ -23,4 +23,4 @@ Members of the [Amethyst Guard](../../../../../factions/amethyst-guard.md) are o
 ## Notes
 
 - Zhudee claimed the library after [The Creation of the Void](../../../../../items/the-creation-of-the-void.md) was lost.
-- In [session-2025-09-14](../../../../../sessions/session-2025-09-14.md), the party met an unrelated, unnamed aarakocra on the platform.
+- In [session-2025-09-14-dm1](../../../../../sessions/session-2025-09-14-dm1.md), the party met an unrelated, unnamed aarakocra on the platform.

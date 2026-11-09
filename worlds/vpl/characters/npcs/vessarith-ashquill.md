@@ -9,8 +9,8 @@ Polite and exacting. He treats a missing librarian as a breach of contract, not 
 ## Notes
 
 - Never appeared in play. His details were generated after the session and approved by the owner.
-- In [session-2026-09-13](../../sessions/session-2026-09-13.md), the devils the party served books to came from his college.
+- In [session-2026-09-13-dm1](../../sessions/session-2026-09-13-dm1.md), the devils the party served books to came from his college.
 
 ## Sessions
 
-- [session-2026-09-13](../../sessions/session-2026-09-13.md) (mentioned only)
+- [session-2026-09-13-dm1](../../sessions/session-2026-09-13-dm1.md) (mentioned only)

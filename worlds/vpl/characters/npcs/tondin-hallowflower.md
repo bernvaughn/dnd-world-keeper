@@ -9,4 +9,4 @@ Alchemist. Owner of [Hallowflower Aromatics](../../continents/faerun/cities/neve
 
 ## Sessions
 
-- [session-2025-09-14](../../sessions/session-2025-09-14.md)
+- [session-2025-09-14-dm1](../../sessions/session-2025-09-14-dm1.md)

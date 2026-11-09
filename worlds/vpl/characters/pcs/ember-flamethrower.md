@@ -7,22 +7,22 @@ Female Fire Genasi Fighter. Player character. Member of the [Amethyst Guard](../
 - Took [demonic blood](../../items/demonic-blood.md) from [Leera](../npcs/leera.md) by punching him in the throat, then sold it to [Nylit](../npcs/nylit.md) at 150 gp each.
 - Bet 100 gp on the party beating the minotaurs and was paid out at 2:1.
 - Weapon chosen from Nylit: not recorded.
-- Had a contract put on her life, found at [The Akward Canvas](../../continents/faerun/cities/neverwinter/locations/akward-canvas.md) in [session-2025-05-04](../../sessions/session-2025-05-04.md). It was probably placed by a gnome whose four friends Ember killed in an adventure that is not recorded. The gnome has no file.
-- In [session-2025-07-13](../../sessions/session-2025-07-13.md), refused every dish at the Mad Hatter's dinner party, broke free, and attacked. She killed [Carpus Catfig](../npcs/carpus-catfig.md).
-- In [session-2025-09-14](../../sessions/session-2025-09-14.md), made no deal with [Zhudee the Grand](../npcs/zhudee-the-grand.md) and escaped the Freedom Athenaeum with [Oggy](oggy.md), dodging water elementals.
+- Had a contract put on her life, found at [The Akward Canvas](../../continents/faerun/cities/neverwinter/locations/akward-canvas.md) in [session-2025-05-04-dm1](../../sessions/session-2025-05-04-dm1.md). It was probably placed by a gnome whose four friends Ember killed in an adventure that is not recorded. The gnome has no file.
+- In [session-2025-07-13-dm1](../../sessions/session-2025-07-13-dm1.md), refused every dish at the Mad Hatter's dinner party, broke free, and attacked. She killed [Carpus Catfig](../npcs/carpus-catfig.md).
+- In [session-2025-09-14-dm1](../../sessions/session-2025-09-14-dm1.md), made no deal with [Zhudee the Grand](../npcs/zhudee-the-grand.md) and escaped the Freedom Athenaeum with [Oggy](oggy.md), dodging water elementals.
 
-- In [session-2026-01-18](../../sessions/session-2026-01-18.md), helped clear and secure [Castle Coinfall](../../continents/faerun/locations/castle-coinfall.md) for [Borquum Holdings](../../factions/borquum-holdings.md).
+- In [session-2026-01-18-dm1](../../sessions/session-2026-01-18-dm1.md), helped clear and secure [Castle Coinfall](../../continents/faerun/locations/castle-coinfall.md) for [Borquum Holdings](../../factions/borquum-holdings.md).
 
-- In [session-2026-09-13](../../sessions/session-2026-09-13.md), helped keep [Candlemere Stables](../../continents/faerun/locations/candlemere-stables.md) running for its devil patrons and defeated a ghost gorgon.
+- In [session-2026-09-13-dm1](../../sessions/session-2026-09-13-dm1.md), helped keep [Candlemere Stables](../../continents/faerun/locations/candlemere-stables.md) running for its devil patrons and defeated a ghost gorgon.
 
-- In [session-2026-11-08](../../sessions/session-2026-11-08.md), found a roster of the eight Gobble-ins and a magical echo near the [cracked genie lamp](../../items/cracked-genie-lamp.md), and split the loot with [Sir Doug](sir-doug.md).
+- In [session-2026-11-08-dm1](../../sessions/session-2026-11-08-dm1.md), found a roster of the eight Gobble-ins and a magical echo near the [cracked genie lamp](../../items/cracked-genie-lamp.md), and split the loot with [Sir Doug](sir-doug.md).
 
 ## Sessions
 
-- [session-2025-05-04](../../sessions/session-2025-05-04.md)
-- [session-2025-07-13](../../sessions/session-2025-07-13.md)
-- [session-2025-09-14](../../sessions/session-2025-09-14.md)
-- [session-2025-11-09](../../sessions/session-2025-11-09.md)
-- [session-2026-01-18](../../sessions/session-2026-01-18.md)
-- [session-2026-09-13](../../sessions/session-2026-09-13.md)
-- [session-2026-11-08](../../sessions/session-2026-11-08.md)
+- [session-2025-05-04-dm1](../../sessions/session-2025-05-04-dm1.md)
+- [session-2025-07-13-dm1](../../sessions/session-2025-07-13-dm1.md)
+- [session-2025-09-14-dm1](../../sessions/session-2025-09-14-dm1.md)
+- [session-2025-11-09-dm1](../../sessions/session-2025-11-09-dm1.md)
+- [session-2026-01-18-dm1](../../sessions/session-2026-01-18-dm1.md)
+- [session-2026-09-13-dm1](../../sessions/session-2026-09-13-dm1.md)
+- [session-2026-11-08-dm1](../../sessions/session-2026-11-08-dm1.md)

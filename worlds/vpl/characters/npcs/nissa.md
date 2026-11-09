@@ -4,8 +4,8 @@ Linked to [The Weeping Dish](../../continents/faerun/cities/neverwinter/location
 
 ## Notes
 
-- The Weeping Dish was the first shop robbed in [session-2024-12-08](../../sessions/session-2024-12-08.md).
+- The Weeping Dish was the first shop robbed in [session-2024-12-08-dm1](../../sessions/session-2024-12-08-dm1.md).
 
 ## Sessions
 
-- [session-2024-12-08](../../sessions/session-2024-12-08.md)
+- [session-2024-12-08-dm1](../../sessions/session-2024-12-08-dm1.md)

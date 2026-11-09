@@ -5,7 +5,7 @@ A fort and castle with a toll booth on a toll road, about a day's travel from Ne
 ## Areas
 
 - **Toll booth:** where the party found a dead dwarf, who exploded, and took some silver pieces from the tolls.
-- **Castle:** entered by the party in [session-2026-01-18](../../../sessions/session-2026-01-18.md). It was full of traps, set by a drider that wanted the castle. A mimic was also inside.
+- **Castle:** entered by the party in [session-2026-01-18-dm1](../../../sessions/session-2026-01-18-dm1.md). It was full of traps, set by a drider that wanted the castle. A mimic was also inside.
 - **Courtyard:** flooded with water by a lever. An illusion of a dwarf tried to get the party to pull it.
 
 ## Notes

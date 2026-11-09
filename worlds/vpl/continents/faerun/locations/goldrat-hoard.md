@@ -8,5 +8,5 @@ A dwarf vault holding a treasure hoard, in the forest northeast of Neverwinter. 
 - Bandits made camp at the entrance. They did not know how to unlock it. The instructions are very simple and written in Dwarven.
 - Inside is a cavern that tempts visitors to take things, and treasure golems attack anyone who does.
 - It held the [Lost Lamp of Rhozire](../../../items/lost-lamp-of-rhozire.md).
-- In [session-2026-04-12](../../../sessions/session-2026-04-12.md), [Kronos](../../../characters/pcs/kronos.md) grabbed a 1,000 gp diamond, and the vault collapsed. The party escaped with the lamp.
+- In [session-2026-04-12-dm1](../../../sessions/session-2026-04-12-dm1.md), [Kronos](../../../characters/pcs/kronos.md) grabbed a 1,000 gp diamond, and the vault collapsed. The party escaped with the lamp.
 - On the way there, the party was attacked in the forest by a barbed devil and a shambling mound.

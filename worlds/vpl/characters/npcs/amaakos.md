@@ -9,4 +9,4 @@ Tiefling explorer who likes to discover temples.
 
 ## Sessions
 
-- [session-2024-11-01](../../sessions/session-2024-11-01.md)
+- [session-2024-11-01-dm1](../../sessions/session-2024-11-01-dm1.md)

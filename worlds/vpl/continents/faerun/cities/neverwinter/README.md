@@ -61,13 +61,13 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 
 ## Sessions
 
-- [session-2024-10-13](../../../../sessions/session-2024-10-13.md)
-- [session-2024-11-01](../../../../sessions/session-2024-11-01.md)
-- [session-2024-12-08](../../../../sessions/session-2024-12-08.md)
-- [session-2025-05-04](../../../../sessions/session-2025-05-04.md)
-- [session-2025-07-13](../../../../sessions/session-2025-07-13.md)
-- [session-2025-08-03](../../../../sessions/session-2025-08-03.md)
-- [session-2025-09-14](../../../../sessions/session-2025-09-14.md)
-- [session-2025-11-09](../../../../sessions/session-2025-11-09.md)
-- [session-2026-02-05](../../../../sessions/session-2026-02-05.md)
-- [session-2026-04-12](../../../../sessions/session-2026-04-12.md)
+- [session-2024-10-13-dm1](../../../../sessions/session-2024-10-13-dm1.md)
+- [session-2024-11-01-dm1](../../../../sessions/session-2024-11-01-dm1.md)
+- [session-2024-12-08-dm1](../../../../sessions/session-2024-12-08-dm1.md)
+- [session-2025-05-04-dm1](../../../../sessions/session-2025-05-04-dm1.md)
+- [session-2025-07-13-dm1](../../../../sessions/session-2025-07-13-dm1.md)
+- [session-2025-08-03-dm1](../../../../sessions/session-2025-08-03-dm1.md)
+- [session-2025-09-14-dm1](../../../../sessions/session-2025-09-14-dm1.md)
+- [session-2025-11-09-dm1](../../../../sessions/session-2025-11-09-dm1.md)
+- [session-2026-02-05-dm1](../../../../sessions/session-2026-02-05-dm1.md)
+- [session-2026-04-12-dm1](../../../../sessions/session-2026-04-12-dm1.md)

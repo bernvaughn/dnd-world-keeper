@@ -14,4 +14,4 @@ Dwarf. Captain of the [Eternal Emissary](../../ships/eternal-emissary.md), a shi
 
 ## Sessions
 
-- [session-2025-11-09](../../sessions/session-2025-11-09.md)
+- [session-2025-11-09-dm1](../../sessions/session-2025-11-09-dm1.md)

@@ -18,10 +18,10 @@ Established by the owner after the sessions.
 - Made a deal with [Aramai](../pcs/aramai.md) and [Brute](../pcs/brute.md): he is owed another business to add to his domain as an entrance to the spa, and in exchange he will reopen the library as part of his business. **Open thread:** the debt is still unpaid.
 - Met [Tondin Hallowflower](tondin-hallowflower.md) about a deal to supply aromatics to the spa.
 - Offers Amethyst Guard members perks at the spa. See the Freedom Athenaeum file.
-- The [cracked genie lamp](../../items/cracked-genie-lamp.md) found in [session-2026-11-08](../../sessions/session-2026-11-08.md) was his prison. See Backstory.
+- The [cracked genie lamp](../../items/cracked-genie-lamp.md) found in [session-2026-11-08-dm1](../../sessions/session-2026-11-08-dm1.md) was his prison. See Backstory.
 - His other holdings beyond the spa are not recorded.
 
 ## Sessions
 
-- [session-2025-09-14](../../sessions/session-2025-09-14.md)
-- [session-2026-11-08](../../sessions/session-2026-11-08.md)
+- [session-2025-09-14-dm1](../../sessions/session-2025-09-14-dm1.md)
+- [session-2026-11-08-dm1](../../sessions/session-2026-11-08-dm1.md)

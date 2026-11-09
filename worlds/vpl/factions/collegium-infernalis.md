@@ -16,5 +16,5 @@ Generated after the session and approved by the owner:
 
 ## Notes
 
-- In [session-2026-09-13](../sessions/session-2026-09-13.md), the party checked out books to the college's devils while the librarian was petrified.
+- In [session-2026-09-13-dm1](../sessions/session-2026-09-13-dm1.md), the party checked out books to the college's devils while the librarian was petrified.
 - The college's location within Infernus and the names of its other members are not recorded.

@@ -8,4 +8,4 @@ Shop in Neverwinter. It sells rare aromatic blends sourced from across the realm
 
 ## Notes
 
-- In [session-2025-09-14](../../../../../sessions/session-2025-09-14.md), Tondin made a sales deal to supply aromatics to the spa at the [Freedom Athenaeum](freedom-athenaeum.md), with help from the party.
+- In [session-2025-09-14-dm1](../../../../../sessions/session-2025-09-14-dm1.md), Tondin made a sales deal to supply aromatics to the spa at the [Freedom Athenaeum](freedom-athenaeum.md), with help from the party.

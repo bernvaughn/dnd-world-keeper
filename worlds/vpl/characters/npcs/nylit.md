@@ -12,4 +12,4 @@ Owner of the blacksmith shop [Adore Ore](../../continents/faerun/cities/neverwin
 
 ## Sessions
 
-- [session-2025-11-09](../../sessions/session-2025-11-09.md)
+- [session-2025-11-09-dm1](../../sessions/session-2025-11-09-dm1.md)

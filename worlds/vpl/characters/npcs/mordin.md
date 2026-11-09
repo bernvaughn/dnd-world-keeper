@@ -9,4 +9,4 @@ A dwarven god, associated with the [Cinderdeep Forge](../../continents/faerun/ci
 
 ## Sessions
 
-- [session-2026-02-05](../../sessions/session-2026-02-05.md)
+- [session-2026-02-05-dm1](../../sessions/session-2026-02-05-dm1.md)

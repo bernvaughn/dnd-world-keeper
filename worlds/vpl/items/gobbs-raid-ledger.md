@@ -4,4 +4,4 @@ A ledger of the Gobble-ins' wagon raids, kept by [Gobb the Red](../characters/np
 
 ## Notes
 
-- Found in Gobb's farmhouse in [session-2026-11-08](../sessions/session-2026-11-08.md). Its contents and who took it are not recorded.
+- Found in Gobb's farmhouse in [session-2026-11-08-dm1](../sessions/session-2026-11-08-dm1.md). Its contents and who took it are not recorded.

@@ -13,4 +13,4 @@ A former adventurer who retired into management. Sits on the Guard's council of 
 
 ## Sessions
 
-- [session-2024-10-13](../../sessions/session-2024-10-13.md)
+- [session-2024-10-13-dm1](../../sessions/session-2024-10-13-dm1.md)

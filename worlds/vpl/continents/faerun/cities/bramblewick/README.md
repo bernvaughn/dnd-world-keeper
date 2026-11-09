@@ -5,7 +5,7 @@ A town east of Neverwinter, known for its orchards and apple festival.
 ## Overview
 
 - About 1,000 residents. Roughly 3,000 people attend the apple festival.
-- Its orchards were saved from blight by the witch [Mara Bramble](../../../../characters/npcs/mara-bramble.md). When the mayor failed to pay the remaining fee, she withdrew her blessing and all the apples rotted. They never recovered. See [session-2026-10-11](../../../../sessions/session-2026-10-11.md).
+- Its orchards were saved from blight by the witch [Mara Bramble](../../../../characters/npcs/mara-bramble.md). When the mayor failed to pay the remaining fee, she withdrew her blessing and all the apples rotted. They never recovered. See [session-2026-10-11-dm1](../../../../sessions/session-2026-10-11-dm1.md).
 
 ## Leadership
 

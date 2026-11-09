@@ -4,5 +4,5 @@ A tortle pleasure cruise boat of [Bring-Your-Own-Ship Cruises](../factions/bring
 
 ## Notes
 
-- In [session-2026-09-13](../sessions/session-2026-09-13.md), the party took it to the island library, [Candlemere Stables](../continents/faerun/locations/candlemere-stables.md).
+- In [session-2026-09-13-dm1](../sessions/session-2026-09-13-dm1.md), the party took it to the island library, [Candlemere Stables](../continents/faerun/locations/candlemere-stables.md).
 - The ship's type is not recorded.

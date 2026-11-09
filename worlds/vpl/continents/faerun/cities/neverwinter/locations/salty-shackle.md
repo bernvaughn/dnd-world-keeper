@@ -8,5 +8,5 @@ A fisherman bar in Neverwinter.
 
 ## Notes
 
-- In [session-2026-04-12](../../../../../sessions/session-2026-04-12.md), the party bribed Urchin Goldrat with booze here to come with them.
+- In [session-2026-04-12-dm1](../../../../../sessions/session-2026-04-12-dm1.md), the party bribed Urchin Goldrat with booze here to come with them.
 - Its owner and staff are not recorded.
