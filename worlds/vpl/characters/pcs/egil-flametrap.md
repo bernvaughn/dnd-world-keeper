@@ -1,0 +1,14 @@
+# Egil Flametrap
+
+Player character. Member of the [Amethyst Guard](../../factions/amethyst-guard.md). Race and class are not recorded.
+
+## Notes
+
+- Escaped the temple back to Neverwinter after [Roland](roland.md) was captured, and recovered at the Amethyst Guard.
+- Spelling: the notes for [session-2024-11-01](../../sessions/session-2024-11-01.md) spelled the name "Egilflametap." The notes for [session-2024-12-08](../../sessions/session-2024-12-08.md) and [session-2025-05-04](../../sessions/session-2025-05-04.md) spell it "Egil Flametrap," which the owner chose to use going forward.
+
+## Sessions
+
+- [session-2024-11-01](../../sessions/session-2024-11-01.md)
+- [session-2024-12-08](../../sessions/session-2024-12-08.md)
+- [session-2025-05-04](../../sessions/session-2025-05-04.md)
