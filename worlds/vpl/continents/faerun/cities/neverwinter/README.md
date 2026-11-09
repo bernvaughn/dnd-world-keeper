@@ -17,6 +17,8 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 - [Borquum House](locations/borquum-house.md): home of Ilxaxergesh Borquum
 - [Docks](locations/docks.md): harbor, overseen by Harbor Master Karenaise
 - [The Old Grape Pharmacy](locations/old-grape-pharmacy.md): pharmacy with a locked back room
+- [Freedom Athenaeum](locations/freedom-athenaeum.md): great library turned luxury spa by the djinni Zhudee the Grand
+- [Hallowflower Aromatics](locations/hallowflower-aromatics.md): aromatics shop run by Tondin Hallowflower
 - [Blood Orc's Fist](locations/blood-orcs-fist.md): gladiator arena
 
 ## Characters
@@ -33,6 +35,9 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 - [Ilxaxergesh Borquum](../../../../characters/npcs/ilxaxergesh-borquum.md), old dragonborn collector, and his son [Preltann](../../../../characters/npcs/preltann-borquum.md)
 - [Mashid](../../../../characters/npcs/mashid.md), servant and housekeeper of the Borquums
 - [Carpus Catfig](../../../../characters/npcs/carpus-catfig.md), Mad Hatter-style human trickster, killed by Ember
+- [Zhudee the Grand](../../../../characters/npcs/zhudee-the-grand.md), djinni who owns the spa in the Freedom Athenaeum
+- [Beram Massan](../../../../characters/npcs/beram-massan.md), librarian cast out after losing Zhudee's book
+- [Tondin Hallowflower](../../../../characters/npcs/tondin-hallowflower.md), alchemist who runs Hallowflower Aromatics
 
 ## Factions
 
@@ -54,4 +59,5 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 - [session-2025-05-04](../../../../sessions/session-2025-05-04.md)
 - [session-2025-07-13](../../../../sessions/session-2025-07-13.md)
 - [session-2025-08-03](../../../../sessions/session-2025-08-03.md)
+- [session-2025-09-14](../../../../sessions/session-2025-09-14.md)
 - [session-2025-11-09](../../../../sessions/session-2025-11-09.md)
