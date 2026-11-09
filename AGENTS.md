@@ -15,6 +15,8 @@ Each world is a distinct game played with different people. Never mix characters
 worlds/<world>/
 ├── README.md
 ├── characters/
+│   ├── pcs/                        # player characters
+│   └── npcs/                       # non-player characters
 ├── sessions/
 ├── factions/
 ├── items/
@@ -30,8 +32,11 @@ worlds/<world>/
 
 - **Overviews:** every folder's overview is a `README.md`.
 - **Names:** lowercase kebab-case slugs for every file and folder (`old-mill-tavern.md`, `port-vale/`).
-- **Character detail lives in one place:** `worlds/<world>/characters/<slug>.md` holds all detailed character information. A location file lists the characters found there with a one-line blurb and a relative link to the character file. Do not duplicate character detail in locations.
-- **Links:** use relative links between files, for example `../../../../../characters/mara-voss.md`. Keep slugs short, since links get long at this depth.
+- **Character detail lives in one place:** `worlds/<world>/characters/pcs/<slug>.md` (player characters) and `worlds/<world>/characters/npcs/<slug>.md` (non-player characters) hold all detailed character information. A location file lists the characters found there with a one-line blurb and a relative link to the character file. Do not duplicate character detail in locations.
+- **This is a public repo:** never record real player names or anything that could identify the people at the table. Refer to player characters by character name only.
+- **Sessions:** named `session-YYYY-MM-DD.md` by the date played.
+- **Unknowns:** when something is not recorded, write "not recorded" instead of guessing. Keep open questions visible.
+- **Links:** use relative links between files, for example `../../../../../characters/npcs/mara-voss.md` from a city location file. Keep slugs short, since links get long at this depth.
 - **Cities** are folders (`cities/<slug>/README.md` plus `cities/<slug>/locations/`). **Locations** are single files unless they need to grow into a folder.
 - **Empty folders** hold a `.gitkeep`. Delete it once real content is added.
 

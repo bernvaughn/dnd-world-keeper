@@ -12,7 +12,8 @@ _None recorded yet._
 
 ## Contents
 
-- [`characters/`](characters/) key characters
+- [`characters/pcs/`](characters/pcs/) player characters
+- [`characters/npcs/`](characters/npcs/) non-player characters
 - [`sessions/`](sessions/) session logs and recaps
 - [`factions/`](factions/) organizations and groups
 - [`items/`](items/) notable items
