@@ -36,4 +36,5 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 ## Sessions
 
 - [session-2024-10-13](../../../../sessions/session-2024-10-13.md)
+- [session-2024-11-01](../../../../sessions/session-2024-11-01.md)
 - [session-2025-11-09](../../../../sessions/session-2025-11-09.md)

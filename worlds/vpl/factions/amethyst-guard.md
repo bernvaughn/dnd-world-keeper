@@ -22,3 +22,4 @@ An organization of adventurers with a council of leadership.
 ## Notes
 
 - Where the Guard is based is not recorded.
+- In [session-2024-11-01](../sessions/session-2024-11-01.md), [Maze](../characters/pcs/maze.md), [Moress](../characters/pcs/moress.md), and [Egilflametap](../characters/pcs/egilflametap.md) recovered here after escaping a temple back to Neverwinter.
