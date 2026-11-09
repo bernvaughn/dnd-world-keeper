@@ -12,6 +12,7 @@ _To be written._
   - [Neverwinter](cities/neverwinter/README.md)
   - [Bramblewick](cities/bramblewick/README.md)
   - [Godsbreath](cities/godsbreath/README.md)
+  - [Gratsdon](cities/gratsdon/README.md)
 - [`locations/`](locations/) points of interest outside cities
   - [Revel's End](locations/revels-end.md)
   - [Castle Coinfall](locations/castle-coinfall.md)
