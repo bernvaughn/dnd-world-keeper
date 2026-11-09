@@ -5,3 +5,4 @@ Reusable skills for working in this repo (running sessions, creating NPCs, addin
 ## Index
 
 - [`session-intake`](session-intake/SKILL.md): turn raw session notes into linked world files, asking questions and getting approval before writing anything.
+- [`magic-item-pricing`](magic-item-pricing/SKILL.md): roll the cost of a magic item by rarity using the owner's house rule.

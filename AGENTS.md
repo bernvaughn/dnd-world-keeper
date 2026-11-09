@@ -47,4 +47,5 @@ worlds/<world>/
 - Preserve the owner's wording and decisions when editing existing files.
 - Do not create new top-level folders or restructure the layout without asking.
 - When the owner pastes session notes, follow [skills/session-intake/SKILL.md](skills/session-intake/SKILL.md). Never write files before the owner has approved the plan.
+- When generating a magic item that needs a value, follow [skills/magic-item-pricing/SKILL.md](skills/magic-item-pricing/SKILL.md).
 - Reusable agent skills go in `skills/`. Add them only when the owner asks, and list each in `skills/README.md`.
