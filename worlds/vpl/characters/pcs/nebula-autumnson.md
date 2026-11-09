@@ -1,11 +1,10 @@
 # Nebula Autumnson
 
-Tiefling Rogue. Player character. Member of the [Amethyst Guard](../../factions/amethyst-guard.md).
+Halfling Rogue. Player character. Member of the [Amethyst Guard](../../factions/amethyst-guard.md).
 
 ## Notes
 
 - Described as clever.
-- Unresolved: the session notes call Nebula "the clever halfling," but later recollection says tiefling. Race to be confirmed.
 
 ## Sessions
 
