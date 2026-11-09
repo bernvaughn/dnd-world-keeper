@@ -11,3 +11,4 @@ _To be written._
 - [`cities/`](cities/) cities, one folder each
   - [Neverwinter](cities/neverwinter/README.md)
 - [`locations/`](locations/) points of interest outside cities
+  - [Revel's End](locations/revels-end.md)

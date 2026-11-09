@@ -34,7 +34,7 @@ Turn raw session notes into files in `worlds/<world>/`, without guessing and wit
 
 ## Rules
 
-- This is a public repo. Never record real player names or anything that could identify the people at the table. Refer to characters by character name only.
+- This is a public repo. Never record real player names or anything that could identify the people at the table. Refer to characters by character name only. Pasted notes may map players to characters, or mention who attended, swapped characters, or stopped coming. Use the character names only and leave out everything about the players, including in your own replies where possible.
 - The library game has many players and several DMs playing different quests in one shared world, so different sessions can involve different parties.
 - Session files are named by the date played: `session-YYYY-MM-DD.md`.
 - Keep what the owner said. Do not restructure the repo or add top-level folders without asking.

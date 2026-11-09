@@ -34,7 +34,7 @@ worlds/<world>/
 - **Overviews:** every folder's overview is a `README.md`.
 - **Names:** lowercase kebab-case slugs for every file and folder (`old-mill-tavern.md`, `port-vale/`).
 - **Character detail lives in one place:** `worlds/<world>/characters/pcs/<slug>.md` (player characters) and `worlds/<world>/characters/npcs/<slug>.md` (non-player characters) hold all detailed character information. A location file lists the characters found there with a one-line blurb and a relative link to the character file. Do not duplicate character detail in locations.
-- **This is a public repo:** never record real player names or anything that could identify the people at the table. Refer to player characters by character name only.
+- **This is a public repo:** never record real player names or anything that could identify the people at the table. Refer to player characters by character name only. Pasted notes may map players to characters, or mention who attended, swapped characters, or stopped coming. Use the character names only and leave out everything about the players.
 - **Sessions:** named `session-YYYY-MM-DD.md` by the date played.
 - **Unknowns:** when something is not recorded, write "not recorded" instead of guessing. Keep open questions visible.
 - **Links:** use relative links between files, for example `../../../../../characters/npcs/mara-voss.md` from a city location file. Keep slugs short, since links get long at this depth.
