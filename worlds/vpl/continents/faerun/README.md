@@ -13,3 +13,4 @@ _To be written._
 - [`locations/`](locations/) points of interest outside cities
   - [Revel's End](locations/revels-end.md)
   - [Castle Coinfall](locations/castle-coinfall.md)
+  - [Goldrat Hoard](locations/goldrat-hoard.md)
