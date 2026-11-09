@@ -5,7 +5,7 @@ A dwarven god, associated with the [Cinderdeep Forge](../../continents/faerun/ci
 ## Notes
 
 - Probably Moradin, the chief deity of the dwarven pantheon in D&D, also called the Soul Forger and the All-Father. "Mordin" is the spelling in the owner's notes, so both spellings are kept. To be compared against future session notes.
-- The notes list him with the forge, but his exact role is not recorded.
+- The notes list the god with the forge, but the exact role is not recorded.
 
 ## Sessions
 
