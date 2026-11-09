@@ -49,6 +49,7 @@ An organization of adventurers with a council of leadership.
 
 ## Notes
 
+- An in-world report on [session-2024-10-13-dm1](../sessions/session-2024-10-13-dm1.md) ends with "For the Amethyst Guard, by your side." It is that report's sign-off. Whether it is a real motto is not recorded.
 - Where the Guard is based is not recorded.
 - In [session-2024-11-01-dm1](../sessions/session-2024-11-01-dm1.md), [Maze](../characters/pcs/maze.md), [Moress](../characters/pcs/moress.md), and [Egil Flametrap](../characters/pcs/egil-flametrap.md) recovered here after escaping a temple back to Neverwinter.
 - In [session-2024-12-08-dm1](../sessions/session-2024-12-08-dm1.md), five members worked with the Neverwinter Town Guard to stop a string of shop break-ins.

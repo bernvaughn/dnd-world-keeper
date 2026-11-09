@@ -5,6 +5,7 @@ Relative of [Mulgric Hardbelt](mulgric-hardbelt.md). Race and other details are 
 ## Notes
 
 - Was squatting in the [Cotswald](../../ships/cotswald.md) at the [Neverwinter docks](../../continents/faerun/cities/neverwinter/locations/docks.md).
+- An in-world report posted to Discord calls him notorious for brazenly occupying the Cotswald.
 - Was scared away by the party and scampered off to his home in Neverwinter.
 
 ## Sessions

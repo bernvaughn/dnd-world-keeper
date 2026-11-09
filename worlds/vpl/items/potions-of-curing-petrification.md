@@ -4,4 +4,4 @@ A bunch of these potions were found as loot in [session-2024-10-13-dm1](../sessi
 
 ## Notes
 
-- They were needed to save [Headless](../characters/pcs/headless.md), who had been petrified.
+- They were needed to save [Headless](../characters/pcs/headless.md), who had been petrified by a curse. The source of the curse is not recorded.
