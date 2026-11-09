@@ -19,6 +19,9 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 - [The Old Grape Pharmacy](locations/old-grape-pharmacy.md): pharmacy with a locked back room
 - [Freedom Athenaeum](locations/freedom-athenaeum.md): great library turned luxury spa by the djinni Zhudee the Grand
 - [Hallowflower Aromatics](locations/hallowflower-aromatics.md): aromatics shop run by Tondin Hallowflower
+- [Gravelgaze Shrine](locations/gravelgaze-shrine.md): ruined earth elemental shrine
+- [Cinderdeep Forge](locations/cinderdeep-forge.md): ancient dwarven forge inhabited by soot mephits
+- [The Driftspire](locations/the-driftspire.md): ruined wizard tower with floating debris
 - [Blood Orc's Fist](locations/blood-orcs-fist.md): gladiator arena
 
 ## Characters
@@ -38,6 +41,8 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 - [Zhudee the Grand](../../../../characters/npcs/zhudee-the-grand.md), djinni who owns the spa in the Freedom Athenaeum
 - [Beram Massan](../../../../characters/npcs/beram-massan.md), librarian cast out after losing Zhudee's book
 - [Tondin Hallowflower](../../../../characters/npcs/tondin-hallowflower.md), alchemist who runs Hallowflower Aromatics
+- [Fizzwidget Brambleloop](../../../../characters/npcs/fizzwidget-brambleloop.md), gnome wizard, and [Grakka Skullcruncher](../../../../characters/npcs/grakka-skullcruncher.md), his lover, now an Iron Orc
+- [Mordin](../../../../characters/npcs/mordin.md), a dwarven god associated with the Cinderdeep Forge
 
 ## Factions
 
@@ -61,3 +66,4 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 - [session-2025-08-03](../../../../sessions/session-2025-08-03.md)
 - [session-2025-09-14](../../../../sessions/session-2025-09-14.md)
 - [session-2025-11-09](../../../../sessions/session-2025-11-09.md)
+- [session-2026-02-05](../../../../sessions/session-2026-02-05.md)
