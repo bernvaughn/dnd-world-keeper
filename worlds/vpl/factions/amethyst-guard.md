@@ -17,6 +17,9 @@ An organization of adventurers with a council of leadership.
 - [Issabella](../characters/pcs/issabella.md)
 - [Rowan Mossroot](../characters/pcs/rowan-mossroot.md)
 - [Olus](../characters/pcs/olus.md)
+- [Willow](../characters/pcs/willow.md)
+- [Genji](../characters/pcs/genji.md)
+- [Astrid](../characters/pcs/astrid.md)
 - [Egil Flametrap](../characters/pcs/egil-flametrap.md)
 - [Bery](../characters/pcs/bery.md)
 - [Nayaht](../characters/pcs/nayaht.md)
@@ -40,3 +43,4 @@ An organization of adventurers with a council of leadership.
 - In [session-2024-12-08](../sessions/session-2024-12-08.md), five members worked with the Neverwinter Town Guard to stop a string of shop break-ins.
 - In [session-2025-01-12](../sessions/session-2025-01-12.md), five members went undercover to [Revel's End](../continents/faerun/locations/revels-end.md) to break out a prisoner, and failed. The adventure ended on a cliffhanger, and their return to the Guard was handwaved.
 - In [session-2025-05-04](../sessions/session-2025-05-04.md), five members recovered a family heirloom for an old dragonborn in Neverwinter, and uncovered a contract on one of their own at The Akward Canvas.
+- In [session-2025-07-13](../sessions/session-2025-07-13.md), six members were captured at [Carpus Catfig](../characters/npcs/carpus-catfig.md)'s dinner party in Neverwinter and escaped by killing him.

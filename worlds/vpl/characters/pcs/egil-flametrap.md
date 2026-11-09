@@ -12,3 +12,4 @@ Player character. Member of the [Amethyst Guard](../../factions/amethyst-guard.m
 - [session-2024-11-01](../../sessions/session-2024-11-01.md)
 - [session-2024-12-08](../../sessions/session-2024-12-08.md)
 - [session-2025-05-04](../../sessions/session-2025-05-04.md)
+- [session-2025-07-13](../../sessions/session-2025-07-13.md)
