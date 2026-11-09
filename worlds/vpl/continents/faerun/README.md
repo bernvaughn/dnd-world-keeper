@@ -14,3 +14,4 @@ _To be written._
   - [Revel's End](locations/revels-end.md)
   - [Castle Coinfall](locations/castle-coinfall.md)
   - [Goldrat Hoard](locations/goldrat-hoard.md)
+  - [Candlemere Stables](locations/candlemere-stables.md)

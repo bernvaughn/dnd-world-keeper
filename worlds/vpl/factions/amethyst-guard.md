@@ -26,6 +26,8 @@ An organization of adventurers with a council of leadership.
 - [Aramai](../characters/pcs/aramai.md)
 - [Oggy](../characters/pcs/oggy.md)
 - [Kronos](../characters/pcs/kronos.md)
+- [Pipwick](../characters/pcs/pipwick.md)
+- [Asha](../characters/pcs/asha.md)
 - [Egil Flametrap](../characters/pcs/egil-flametrap.md)
 - [Bery](../characters/pcs/bery.md)
 - [Nayaht](../characters/pcs/nayaht.md)
@@ -55,3 +57,4 @@ An organization of adventurers with a council of leadership.
 - In [session-2026-01-18](../sessions/session-2026-01-18.md), five members investigated a toll road for [Borquum Holdings](borquum-holdings.md) and secured [Castle Coinfall](../continents/faerun/locations/castle-coinfall.md) for it.
 - In [session-2026-02-05](../sessions/session-2026-02-05.md), members helped a gnome wizard, [Fizzwidget Brambleloop](../characters/npcs/fizzwidget-brambleloop.md), gather three components for an iron golem that brought his lover back as an Iron Orc. Which members took part is not recorded.
 - In [session-2026-04-12](../sessions/session-2026-04-12.md), members including [Astrid Tealeaf](../characters/pcs/astrid.md) and [Kronos](../characters/pcs/kronos.md) recovered the Lost Lamp of Rhozire from the [Goldrat Hoard](../continents/faerun/locations/goldrat-hoard.md) for the collector [Myenceth Rhozire](../characters/npcs/myenceth-rhozire.md).
+- In [session-2026-09-13](../sessions/session-2026-09-13.md), five members kept the island library [Candlemere Stables](../continents/faerun/locations/candlemere-stables.md) running for devil patrons from the [Collegium Infernalis](collegium-infernalis.md) after its librarian vanished, and defeated a ghost gorgon.
