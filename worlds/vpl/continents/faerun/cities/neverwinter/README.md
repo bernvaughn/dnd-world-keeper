@@ -6,7 +6,7 @@ City on the coast of Faerun, with a working harbor and a gladiator arena.
 
 This version of Neverwinter started as canon Neverwinter from Forgotten Realms. Divergences from canon have not been recorded yet.
 
-**Leadership:** not yet fleshed out.
+**Leadership:** [Lord Neverwinter](../../../../characters/npcs/lord-neverwinter.md), human male, ruler of the city. Established by the owner after a session. The rest is not yet fleshed out.
 
 ## Locations
 
