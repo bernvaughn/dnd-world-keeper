@@ -21,3 +21,4 @@ _To be written._
   - [Farrowdeep Mine](locations/farrowdeep-mine.md)
   - [Szessith's Embrace](locations/szessiths-embrace.md)
   - [Gobble-in Estate](locations/gobble-in-estate.md)
+  - [The Maze](locations/the-maze.md)

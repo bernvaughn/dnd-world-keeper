@@ -46,6 +46,8 @@ An organization of adventurers with a council of leadership.
 - [Jax](../characters/pcs/jax.md)
 - [Mithran](../characters/pcs/mithran.md)
 - [Faelyn](../characters/pcs/faelyn.md)
+- [Findak](../characters/pcs/findak.md)
+- [Cohen](../characters/pcs/cohen.md)
 - [Lord Pezz](../characters/npcs/lord-pezz.md): member, NPC
 - [Labor](../characters/npcs/labor.md): an architect who works for the Guard
 
@@ -75,3 +77,4 @@ An organization of adventurers with a council of leadership.
 - In [session-2024-11-17-dm3](../sessions/session-2024-11-17-dm3.md), a Discord post says four members went upriver to [Godsbreath](../continents/faerun/cities/godsbreath/README.md) to find supplies and artisans for rebuilding the guild keep, the Guard's headquarters. They stopped a soul shaker, and the town delivered supplies and food and revived [Roland](../characters/pcs/roland.md).
 - In [session-2024-11-24-dm1](../sessions/session-2024-11-24-dm1.md), an in-world report says Guard members attacked awakened serpent folk to clear Amaakos's escape route from the temple [Szessith's Embrace](../continents/faerun/locations/szessiths-embrace.md), home of the [Dark Embrace](dark-embrace.md). The session date was corrected from 11/1 to 11/24/2024.
 - In [session-2024-12-01-dm3](../sessions/session-2024-12-01-dm3.md), a Guard bulletin says members helped [Gratsdon](../continents/faerun/cities/gratsdon/README.md) prepare a halfling harvest festival at the request of the wizard [Fangil](../characters/npcs/fangil.md). It also warns members that the [soul shaker](../characters/npcs/godsbreath-soul-shaker.md) was met again outside Neverwinter, and to destroy all of its hands. Which members took part is not recorded.
+- In [session-2024-12-01-dm4](../sessions/session-2024-12-01-dm4.md), a report says four guild members returning from a job paid to enter [a maze](../continents/faerun/locations/the-maze.md) and were attacked by bean stalks. The report says only two survived, but the owner ruled retroactively that all four barely escaped. Whether the guild is the Amethyst Guard is taken as such.
