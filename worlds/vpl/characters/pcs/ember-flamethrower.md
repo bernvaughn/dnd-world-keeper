@@ -18,12 +18,14 @@ Female Fire Genasi Fighter. Player character. Member of the [Amethyst Guard](../
 
 - In [session-2026-11-08-dm1](../../sessions/session-2026-11-08-dm1.md), found a roster of the eight Gobble-ins and a magical echo near the [cracked genie lamp](../../items/cracked-genie-lamp.md), and split the loot with [Sir Doug](sir-doug.md).
 - In [session-2025-04-13-dm1](../../sessions/session-2025-04-13-dm1.md), scorched a bone golem with burning hands in [Blackstone](../../continents/faerun/locations/blackstone.md).
+- In [session-2025-06-08-dm3](../../sessions/session-2025-06-08-dm3.md), crewed [Captain Steve](../npcs/captain-steve.md)'s fishing vessel with [Astrid](astrid.md), [Strange](strange.md), and [Srorthen](srorthen.md), and fought sahuagin and an aboleth.
 
 ## Sessions
 
 - [session-2025-03-09-dm1](../../sessions/session-2025-03-09-dm1.md)
 - [session-2025-04-13-dm1](../../sessions/session-2025-04-13-dm1.md)
 - [session-2025-05-04-dm1](../../sessions/session-2025-05-04-dm1.md)
+- [session-2025-06-08-dm3](../../sessions/session-2025-06-08-dm3.md)
 - [session-2025-07-13-dm1](../../sessions/session-2025-07-13-dm1.md)
 - [session-2025-09-14-dm1](../../sessions/session-2025-09-14-dm1.md)
 - [session-2025-11-09-dm1](../../sessions/session-2025-11-09-dm1.md)

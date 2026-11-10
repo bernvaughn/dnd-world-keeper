@@ -12,11 +12,13 @@ Tiefling Wizard. Player character. Member of the [Amethyst Guard](../../factions
 - Still a Hallowed One in [session-2026-10-11-dm1](../../sessions/session-2026-10-11-dm1.md). He was hurt fighting rot-touched trees near [Bramblewick](../../continents/faerun/cities/bramblewick/README.md) and was healed. The witch [Mara Bramble](../npcs/mara-bramble.md) gave him cookies.
 - In [session-2025-04-13-dm1](../../sessions/session-2025-04-13-dm1.md), went to the ruins of [Blackstone](../../continents/faerun/locations/blackstone.md) and helped defeat [Mortimer Graves](../npcs/mortimer-graves.md) and rescue [Turdrag Hardbelt](../npcs/turdrag-hardbelt.md).
 - In [session-2025-05-04-dm2](../../sessions/session-2025-05-04-dm2.md), was safely returned to the guild after the Guard negotiated with [Auril's Grin](../../factions/aurils-grin.md), along with the other three held members. How they came to be held is not recorded.
+- In [session-2025-06-08-dm3](../../sessions/session-2025-06-08-dm3.md), crewed [Captain Steve](../npcs/captain-steve.md)'s fishing vessel and fought sahuagin and an aboleth. Used the arcane gem it coughed up to make a disrespectful gesture at [Nolan](../npcs/nolan.md). Whether he kept the gem is not recorded.
 
 ## Sessions
 
 - [session-2025-04-13-dm1](../../sessions/session-2025-04-13-dm1.md)
 - [session-2025-05-04-dm2](../../sessions/session-2025-05-04-dm2.md)
+- [session-2025-06-08-dm3](../../sessions/session-2025-06-08-dm3.md)
 - [session-2025-08-03-dm1](../../sessions/session-2025-08-03-dm1.md)
 - [session-2025-11-09-dm1](../../sessions/session-2025-11-09-dm1.md)
 - [session-2026-01-18-dm1](../../sessions/session-2026-01-18-dm1.md)

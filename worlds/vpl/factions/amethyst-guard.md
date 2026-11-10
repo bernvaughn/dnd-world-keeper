@@ -46,6 +46,7 @@ An organization of adventurers with a council of leadership.
 - [Jax](../characters/pcs/jax.md)
 - [Mithran](../characters/pcs/mithran.md)
 - [Faelyn](../characters/pcs/faelyn.md)
+- [Srorthen](../characters/pcs/srorthen.md)
 - [Mancler](../characters/pcs/mancler.md)
 - [David Davidson](../characters/npcs/david-davidson.md): former member, turned on the Guard
 - [Zephyr](../characters/pcs/zephyr.md)
@@ -89,3 +90,4 @@ An organization of adventurers with a council of leadership.
 - In [session-2025-04-13-dm1](../sessions/session-2025-04-13-dm1.md), five members rescued the brewmaster [Turdrag Hardbelt](../characters/npcs/turdrag-hardbelt.md) and the [Frosthaven Ale recipe](../items/frosthaven-ale-recipe.md) from the necromancer [Mortimer Graves](../characters/npcs/mortimer-graves.md) in the ruins of [Blackstone](../continents/faerun/locations/blackstone.md). The head of the [Amber Tun Brewers' Guild](amber-tun-brewers-guild.md) praised them.
 - In [session-2025-04-13-dm3](../sessions/session-2025-04-13-dm3.md), a report says members won a fighting tournament at the [Invimain Casino](../continents/faerun/cities/neverwinter/locations/invimain-casino.md) in Neverwinter, then learned their guide, the final champion, had run a long con to win a bet on the challengers. Which members took part is not recorded.
 - In [session-2025-05-04-dm2](../sessions/session-2025-05-04-dm2.md), a memo signed by [Lord Pezz](../characters/npcs/lord-pezz.md) says [Ziri](../characters/pcs/ziri.md), [Varis](../characters/pcs/varis.md), [Strange](../characters/pcs/strange.md), and [Mancler](../characters/pcs/mancler.md) were returned after negotiation with [Auril's Grin](aurils-grin.md). [David Davidson](../characters/npcs/david-davidson.md) left and is considered hostile and dangerous. [Lord Neverwinter](../characters/npcs/lord-neverwinter.md) and city officials were disappointed in the Guard on a failed sensitive task, and recovering the lost magic items is a top priority. Fire is highly discouraged, with a possible ban under discussion, and cooperation workshops are planned. The memo calls the Guard "The Reborn Amethyst Guard," but the official name stays Amethyst Guard.
+- In [session-2025-06-08-dm3](../sessions/session-2025-06-08-dm3.md), four members crewed [Captain Steve](../characters/npcs/captain-steve.md)'s fishing vessel, fought sahuagin mercenaries and an aboleth, and spotted [Nolan](../characters/npcs/nolan.md), now a warlock of [Mammon](../characters/npcs/mammon.md), at the Neverwinter port.
