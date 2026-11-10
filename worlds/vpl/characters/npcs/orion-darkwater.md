@@ -4,6 +4,7 @@ Dwarf. Captain of the [Eternal Emissary](../../ships/eternal-emissary.md), a shi
 
 ## Notes
 
+- An in-world report describes him as a stout dwarf with a sailor's grit. See [session-2025-11-09-dm1](../../sessions/session-2025-11-09-dm1.md).
 - Not fleshed out beyond being a generic dwarf captain with a generic dwarf crew.
 - Was at a standstill with Harbor Master [Karenaise](karenaise.md) over docking arrangements until the party stepped in. His ship carried the [Blitzsteel ingots](../../items/blitzsteel-ingots.md) for Adore Ore.
 - The ship's dwarves also sold the party [adamantium](../../items/adamantium.md).

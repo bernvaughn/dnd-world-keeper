@@ -5,6 +5,7 @@ Minotaur. The biggest of the seven minotaurs who became the reigning champions o
 ## Notes
 
 - Member of the [Tribe of the Last Charge](../../factions/tribe-of-the-last-charge.md), whose volunteers come to the arena to die in combat and be made into weapons.
+- An in-world report describes him as colossal.
 - The other six minotaurs were not named.
 - Defeated by the party after a hard battle.
 
