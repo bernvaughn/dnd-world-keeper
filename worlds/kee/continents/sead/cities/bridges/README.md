@@ -5,7 +5,7 @@ The capital of both [Faircliff](../../locations/faircliff.md) and [Sead](../../R
 
 ## Overview
 
-Bridges is a neutral metropolitan city in the middle of the continent. Hundreds of bridges connect the city along the cliffs back and forth, connecting a small cave network. The King of Sead's name is not recorded.
+Bridges is a neutral metropolitan city in the middle of the continent. Hundreds of bridges connect the city along the cliffs back and forth, connecting a small cave network. The King of Sead is [Vercani Vuldici](../../../../characters/npcs/vercani-vuldici.md), crowned after the Tournament of Champions held here. His father, [Victor Vuldici](../../../../characters/npcs/victor-vuldici.md), died before it. From Discord messages. See [session-2025-06-03-dm2](../../../../sessions/session-2025-06-03-dm2.md) and [session-2025-06-17-dm2](../../../../sessions/session-2025-06-17-dm2.md).
 
 ## Groups
 
@@ -15,7 +15,8 @@ Bridges is a neutral metropolitan city in the middle of the continent. Hundreds 
 ## People
 
 - [Wren Whistlestopper](../../../../characters/npcs/wren-whistlestopper.md), owner of Wren's Nest
-- [Prince Viu Vuldici](../../../../characters/npcs/viu-vuldici.md), General of the Obsidian Knights
+- [King Vercani Vuldici](../../../../characters/npcs/vercani-vuldici.md)
+- [Prince Viu Vuldici](../../../../characters/npcs/viu-vuldici.md), General of the Obsidian Knights and the king's twin brother
 - [Pizin Raz](../../../../characters/npcs/pizin-raz.md), Captain of the Obsidian Knights
 
 ## Locations

@@ -1,6 +1,6 @@
 # Grevinn Thunderdirt
 
-Player character. Species, class, and pronouns are not recorded.
+A dwarf. Player character. Class and pronouns are not recorded.
 
 ## Notes
 
