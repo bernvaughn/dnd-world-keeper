@@ -13,6 +13,7 @@ _To be written._
   - [Bramblewick](cities/bramblewick/README.md)
   - [Godsbreath](cities/godsbreath/README.md)
   - [Gratsdon](cities/gratsdon/README.md)
+  - [Smelton](cities/smelton/README.md)
 - [`locations/`](locations/) points of interest outside cities
   - [Revel's End](locations/revels-end.md)
   - [Castle Coinfall](locations/castle-coinfall.md)
