@@ -24,6 +24,7 @@ worlds/
     ├── factions/      organizations and groups
     ├── items/         notable items
     ├── ships/         ships and vessels
+    ├── creatures/     homebrew creatures and species
     └── continents/
         └── <continent>/
             ├── README.md

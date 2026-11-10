@@ -21,6 +21,7 @@ worlds/<world>/
 ├── factions/
 ├── items/
 ├── ships/
+├── creatures/                      # homebrew creatures and species
 └── continents/<continent>/
     ├── README.md
     ├── locations/                  # points of interest outside cities

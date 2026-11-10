@@ -7,7 +7,7 @@ Djinni. Owner of the luxury spa in the [Freedom Athenaeum](../../continents/faer
 Established by the owner after the sessions.
 
 - Was trapped in a lamp in ruins. The ruins are unnamed and their location is not recorded. Who sealed him in, and for how long, are not recorded.
-- A bandit gang found the [lamp](../../items/cracked-genie-lamp.md) and got three wishes: a feast, then to live as powerful goblins so they would never pay for food again, then to free the genie. The gang became the [Gobble-ins](../../factions/flock-of-the-fallen-leaves.md).
+- A bandit gang found the [lamp](../../items/cracked-genie-lamp.md) and got three wishes: a feast, then to live as powerful goblins so they would never pay for food again, then to free the genie. The gang became the [Gobble-ins](../../factions/flock-of-the-fallen-leaves.md). The wish turned them into [gobble-lins](../../creatures/gobble-lins.md), a creature that already existed. Established by the owner after the sessions.
 - [Pip](pip.md) convinced the rest of the flock to free him. They agreed easily because they wanted nothing else. The lamp cracked when he was freed, and the flock threw it into a sinkhole for fun.
 - After he was freed, he went on to start his spa business. The spa has entrances in Neverwinter, including the [Freedom Athenaeum](../../continents/faerun/cities/neverwinter/locations/freedom-athenaeum.md), but exists on a different plane. Which plane, and whether he still knows the Gobble-ins, are not recorded.
 

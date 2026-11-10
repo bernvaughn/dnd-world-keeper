@@ -22,5 +22,6 @@ _None recorded yet._
 - [`factions/`](factions/) organizations and groups
 - [`items/`](items/) notable items
 - [`ships/`](ships/) ships and vessels
+- [`creatures/`](creatures/README.md) homebrew creatures and species
 - [`continents/faerun/`](continents/faerun/README.md) the continent of Faerun
 - [`continents/hell/`](continents/hell/README.md) Hell, which holds Dis and Infernus

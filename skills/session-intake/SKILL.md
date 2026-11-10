@@ -14,7 +14,7 @@ Turn raw session notes into files in `worlds/<world>/`, without guessing and wit
 3. **Map the notes to files.** Decide which of these each fact belongs to:
    - session log: `sessions/session-YYYY-MM-DD-dmN.md`
    - PCs and NPCs: `characters/pcs/` and `characters/npcs/`
-   - factions, items, and ships: `factions/`, `items/`, `ships/`
+   - factions, items, ships, and homebrew creatures or species: `factions/`, `items/`, `ships/`, `creatures/` (individual named creatures also get an NPC file)
    - places: `continents/<continent>/cities/<city>/` and its `locations/`, or the continent's own `locations/`
 
    Character detail lives only in the character files. Locations link to characters.

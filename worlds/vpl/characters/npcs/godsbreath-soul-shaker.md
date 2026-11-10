@@ -1,6 +1,6 @@
-# Soul Shaker
+# Godsbreath Soul Shaker
 
-An undead amalgamation of arms from local folklore, long dismissed as a story to frighten disobedient children. Hands dig for something. Not an individual with a name.
+The individual [soul shaker](../../creatures/soul-shaker.md) met near Godsbreath and again outside Neverwinter. It has no name of its own.
 
 ## Notes
 

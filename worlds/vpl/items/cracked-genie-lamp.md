@@ -1,6 +1,6 @@
 # Cracked Genie Lamp
 
-A genie's lamp, cracked and powerless. The [Gobble-ins](../factions/flock-of-the-fallen-leaves.md) wished on it to become "powerful and ruthless goblins," and were turned into giant, sentient turkeys.
+A genie's lamp, cracked and powerless. The [Gobble-ins](../factions/flock-of-the-fallen-leaves.md) wished on it to become "powerful and ruthless goblins," and were turned into the sentient version of the [gobble-lins](../creatures/gobble-lins.md), a creature that already existed. Established by the owner after the sessions.
 
 ## Notes
 
