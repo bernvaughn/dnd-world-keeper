@@ -46,6 +46,8 @@ An organization of adventurers with a council of leadership.
 - [Jax](../characters/pcs/jax.md)
 - [Mithran](../characters/pcs/mithran.md)
 - [Faelyn](../characters/pcs/faelyn.md)
+- [Varis](../characters/pcs/varis.md)
+- [Malachi](../characters/pcs/malachi.md)
 - [Findak](../characters/pcs/findak.md)
 - [Cohen](../characters/pcs/cohen.md)
 - [Lord Pezz](../characters/npcs/lord-pezz.md): member, NPC
@@ -80,3 +82,4 @@ An organization of adventurers with a council of leadership.
 - In [session-2024-12-01-dm4](../sessions/session-2024-12-01-dm4.md), a report says four guild members returning from a job paid to enter [a maze](../continents/faerun/locations/the-maze.md) and were attacked by bean stalks. The report says only two survived, but the owner ruled retroactively that all four barely escaped. Whether the guild is the Amethyst Guard is taken as such.
 - In [session-2024-12-01-dm2](../sessions/session-2024-12-01-dm2.md), a report says five members scouted a potential site for the new Amethyst Keep at the base of [Mount Hotenow](../continents/faerun/locations/mount-hotenow.md). They fought a bulette and lost [Lady Arka](../characters/pcs/lady-arka.md), who is dead for good. They freed a fire elemental and found an [electric bow](../items/electric-bow.md). Whether the site was chosen is not recorded.
 - In [session-2025-03-02-dm3](../sessions/session-2025-03-02-dm3.md), a bulletin titled "Guard Betrayed" says members went to [Smelton](../continents/faerun/cities/smelton/README.md) to help protect its mine, and found that [Nolan](../characters/npcs/nolan.md), head of the town, had been corrupting the land and exploiting the miners. They ran him out and gave his wealth to the miners. The bulletin warns members to use discretion when accepting jobs, so they are not deceived into aiding evil. Which members took part is not recorded.
+- In [session-2025-03-09-dm1](../sessions/session-2025-03-09-dm1.md), five members ended a string of burglaries in [Lumenshire](../continents/faerun/cities/lumenshire/README.md) by baiting a trap for the [Prismatic Gnome Rangers](prismatic-gnome-rangers.md). They captured the Green Ranger, who was held by the Guard and escaped before trial, and defeated all but the Pink Ranger.

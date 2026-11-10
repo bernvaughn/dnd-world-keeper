@@ -11,10 +11,13 @@ Player character. Member of the [Amethyst Guard](../../factions/amethyst-guard.m
 
 - Amaakos thanked "Egilflametap," along with [Maze](maze.md) and [Moress](moress.md), for enabling his escape, per an in-world report posted to Discord.
 
+- In [session-2025-03-09-dm1](../../sessions/session-2025-03-09-dm1.md), helped set a trap in [Lumenshire](../../continents/faerun/cities/lumenshire/README.md) and stopped the [Prismatic Gnome Rangers](../../factions/prismatic-gnome-rangers.md).
+
 ## Sessions
 
 - [session-2024-11-17-dm2](../../sessions/session-2024-11-17-dm2.md)
 - [session-2024-11-24-dm1](../../sessions/session-2024-11-24-dm1.md)
 - [session-2024-12-08-dm1](../../sessions/session-2024-12-08-dm1.md)
+- [session-2025-03-09-dm1](../../sessions/session-2025-03-09-dm1.md)
 - [session-2025-05-04-dm1](../../sessions/session-2025-05-04-dm1.md)
 - [session-2025-07-13-dm1](../../sessions/session-2025-07-13-dm1.md)
