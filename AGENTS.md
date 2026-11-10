@@ -22,6 +22,8 @@ worlds/<world>/
 ├── items/
 ├── ships/
 ├── creatures/                      # homebrew creatures and species
+├── gods/                           # pantheon, one file per god (kee only so far)
+├── species/                        # species available in the world (kee only so far)
 └── continents/<continent>/
     ├── README.md
     ├── locations/                  # points of interest outside cities
