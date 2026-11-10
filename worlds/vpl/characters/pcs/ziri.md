@@ -1,6 +1,6 @@
 # Ziri
 
-Tiefling. Player character. Member of the [Amethyst Guard](../../factions/amethyst-guard.md).
+Tiefling. Player character. Member of the [Amethyst Guard](../../factions/amethyst-guard.md). She.
 
 ## Notes
 
@@ -10,6 +10,8 @@ Tiefling. Player character. Member of the [Amethyst Guard](../../factions/amethy
 - Unresolved: the spelling is unconfirmed. The notes for [session-2025-01-12-dm1](../../sessions/session-2025-01-12-dm1.md) spell it "Ziri," and the notes for session-2025-08-03-dm1 spell it "Zuri." They are the same character. To be compared against future session notes, which may turn up more variants.
 - In [session-2025-04-13-dm1](../../sessions/session-2025-04-13-dm1.md), went to [Blackstone](../../continents/faerun/locations/blackstone.md) and helped defeat [Mortimer Graves](../npcs/mortimer-graves.md). The report spells the name "Ziri."
 - In [session-2025-05-04-dm2](../../sessions/session-2025-05-04-dm2.md), was safely returned to the guild after the Guard negotiated with [Auril's Grin](../../factions/aurils-grin.md), along with the other three held members. How they came to be held is not recorded.
+- Was promoted to Guard captain, per the in-world reports on [session-2025-08-03-dm1](../../sessions/session-2025-08-03-dm1.md). When is not recorded. Established by the owner after the sessions.
+- Her last recorded arrest was the staged one of [Astrid](astrid.md) at [The Old Grape Pharmacy](../../continents/faerun/cities/neverwinter/locations/old-grape-pharmacy.md). The public report calls it a pharmacy heist foiled by Zuri, and says she was presumed lost at sea afterward. The reports spell the name "Zuri."
 
 ## Sessions
 
