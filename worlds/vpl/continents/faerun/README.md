@@ -25,3 +25,4 @@ _To be written._
   - [Gobble-in Estate](locations/gobble-in-estate.md)
   - [The Maze](locations/the-maze.md)
   - [Mount Hotenow](locations/mount-hotenow.md)
+  - [Blackstone](locations/blackstone.md)

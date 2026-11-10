@@ -10,7 +10,7 @@ A former adventurer who retired into management. Sits on the Guard's council of 
 
 - Hired four members of the Guard to secure two ships.
 - An in-world report posted to Discord describes him as leading the Guard and says he enlisted the four adventurers to bolster its ranks. His council role is unchanged here.
-- Relative of [Golric](golric.md).
+- Relative of [Golric](golric.md) and of [Turdrag Hardbelt](turdrag-hardbelt.md). How they are related is not recorded.
 
 ## Sessions
 

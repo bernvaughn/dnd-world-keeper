@@ -10,9 +10,11 @@ Tiefling Wizard. Player character. Member of the [Amethyst Guard](../../factions
 - Still a Hallowed One in [session-2026-01-18-dm1](../../sessions/session-2026-01-18-dm1.md), when he helped clear and secure [Castle Coinfall](../../continents/faerun/locations/castle-coinfall.md) for [Borquum Holdings](../../factions/borquum-holdings.md).
 - Still a Hallowed One in [session-2026-09-13-dm1](../../sessions/session-2026-09-13-dm1.md). A ghost gorgon petrified him at [Candlemere Stables](../../continents/faerun/locations/candlemere-stables.md), and the party unpetrified him.
 - Still a Hallowed One in [session-2026-10-11-dm1](../../sessions/session-2026-10-11-dm1.md). He was hurt fighting rot-touched trees near [Bramblewick](../../continents/faerun/cities/bramblewick/README.md) and was healed. The witch [Mara Bramble](../npcs/mara-bramble.md) gave him cookies.
+- In [session-2025-04-13-dm1](../../sessions/session-2025-04-13-dm1.md), went to the ruins of [Blackstone](../../continents/faerun/locations/blackstone.md) and helped defeat [Mortimer Graves](../npcs/mortimer-graves.md) and rescue [Turdrag Hardbelt](../npcs/turdrag-hardbelt.md).
 
 ## Sessions
 
+- [session-2025-04-13-dm1](../../sessions/session-2025-04-13-dm1.md)
 - [session-2025-08-03-dm1](../../sessions/session-2025-08-03-dm1.md)
 - [session-2025-11-09-dm1](../../sessions/session-2025-11-09-dm1.md)
 - [session-2026-01-18-dm1](../../sessions/session-2026-01-18-dm1.md)
