@@ -1,6 +1,6 @@
 # Flock of the Fallen Leaves
 
-The Gobble-ins: a band of former robbers turned into giant, sentient turkeys after wishing on a genie's lamp to be "powerful and ruthless goblins." They settled in the woods south of Neverwinter, then returned to banditry to protect their home. Their second wish turned them into [gobble-lins](../creatures/gobble-lins.md), a creature that already existed, which is why they are the sentient version. Established by the owner after the sessions. The [lamp](../items/cracked-genie-lamp.md) is connected to [Zhudee the Grand](../characters/npcs/zhudee-the-grand.md).
+The Gobble-ins: a band of former robbers turned into giant, sentient turkeys after wishing on a genie's lamp to be "powerful and ruthless goblins." They settled in the woods south of Neverwinter, then returned to banditry to protect their home. Their second wish turned them into [gobble-lins](../creatures/gobble-lins.md), a creature that already existed, which is why they are the sentient version. Established by the owner after the sessions. Like the wild kind, they are horse-sized. The [lamp](../items/cracked-genie-lamp.md) is connected to [Zhudee the Grand](../characters/npcs/zhudee-the-grand.md).
 
 ## Members
 

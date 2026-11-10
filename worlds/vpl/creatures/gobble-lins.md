@@ -6,4 +6,4 @@ Large birds that destroy local crops and make tasty fare. The spelling "gobble-l
 
 - The creature existed before the wish. The wild kind is found around [Gratsdon](../continents/faerun/cities/gratsdon/README.md), where it threatens the harvest crops.
 - The Gobble-ins of the [Flock of the Fallen Leaves](../factions/flock-of-the-fallen-leaves.md) are the same creature, in a sentient version. They were once people, the bandit gang that found [Zhudee the Grand](../characters/npcs/zhudee-the-grand.md)'s [lamp](../items/cracked-genie-lamp.md). Their second wish turned them into gobble-lins. Because they used to be people, they kept their minds.
-- The Gobble-ins are described as giant turkeys, and the Gratsdon bulletin says large birds. How big the wild kind is, and whether it is a turkey, are not recorded.
+- The wild kind is horse-sized, a Large creature. Established by the owner after the sessions. The Gobble-ins are described as giant turkeys, so they are the same size. Whether the wild kind is a turkey is not recorded.
