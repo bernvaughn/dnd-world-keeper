@@ -10,7 +10,7 @@ An organization of adventurers with a council of leadership.
 
 - [Nebula Autumnson](../characters/pcs/nebula-autumnson.md)
 - [Lord Eerek](../characters/pcs/lord-eerek.md)
-- [Lady Arka](../characters/pcs/lady-arka.md)
+- [Lady Arka](../characters/pcs/lady-arka.md): died in [session-2024-12-01-dm2](../sessions/session-2024-12-01-dm2.md)
 - [Headless](../characters/pcs/headless.md)
 - [Droon Toon](../characters/pcs/droon-toon.md)
 - [Ember Flamethrower](../characters/pcs/ember-flamethrower.md)
@@ -78,3 +78,4 @@ An organization of adventurers with a council of leadership.
 - In [session-2024-11-24-dm1](../sessions/session-2024-11-24-dm1.md), an in-world report says Guard members attacked awakened serpent folk to clear Amaakos's escape route from the temple [Szessith's Embrace](../continents/faerun/locations/szessiths-embrace.md), home of the [Dark Embrace](dark-embrace.md). The session date was corrected from 11/1 to 11/24/2024.
 - In [session-2024-12-01-dm3](../sessions/session-2024-12-01-dm3.md), a Guard bulletin says members helped [Gratsdon](../continents/faerun/cities/gratsdon/README.md) prepare a halfling harvest festival at the request of the wizard [Fangil](../characters/npcs/fangil.md). It also warns members that the [soul shaker](../characters/npcs/godsbreath-soul-shaker.md) was met again outside Neverwinter, and to destroy all of its hands. Which members took part is not recorded.
 - In [session-2024-12-01-dm4](../sessions/session-2024-12-01-dm4.md), a report says four guild members returning from a job paid to enter [a maze](../continents/faerun/locations/the-maze.md) and were attacked by bean stalks. The report says only two survived, but the owner ruled retroactively that all four barely escaped. Whether the guild is the Amethyst Guard is taken as such.
+- In [session-2024-12-01-dm2](../sessions/session-2024-12-01-dm2.md), a report says five members scouted a potential site for the new Amethyst Keep at the base of [Mount Hotenow](../continents/faerun/locations/mount-hotenow.md). They fought a bulette and lost [Lady Arka](../characters/pcs/lady-arka.md), who is dead for good. They freed a fire elemental and found an [electric bow](../items/electric-bow.md). Whether the site was chosen is not recorded.
