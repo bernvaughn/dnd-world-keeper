@@ -14,6 +14,7 @@ He serves as a willing front for the [demons from the Akward Canvas](../../facti
 - [Ember Flamethrower](../pcs/ember-flamethrower.md) punched him in the throat and took the blood. [Clovis](../pcs/clovis.md) then intimidated him into not telling anyone.
 - His shop was the third to be robbed in [session-2024-12-08-dm1](../../sessions/session-2024-12-08-dm1.md).
 - In [session-2025-05-04-dm1](../../sessions/session-2025-05-04-dm1.md), the party brought the captured assassin [Ishaxa](ishaxa.md) to his shop, where a contract on [Ember Flamethrower](../pcs/ember-flamethrower.md) was found. They left on good terms with him.
+- The in-world report for that session describes him as running "a front for a secretive guild," which is the demons from the Akward Canvas.
 
 ## Sessions
 
