@@ -24,6 +24,7 @@ This version of Neverwinter started as canon Neverwinter from Forgotten Realms. 
 - [The Driftspire](locations/the-driftspire.md): ruined wizard tower with floating debris
 - [Salty Shackle](locations/salty-shackle.md): fisherman bar
 - [Blood Orc's Fist](locations/blood-orcs-fist.md): gladiator arena
+- [Invimain Casino](locations/invimain-casino.md): underground casino hosting a fighting tournament
 
 ## Characters
 
