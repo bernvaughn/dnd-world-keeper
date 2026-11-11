@@ -1,6 +1,6 @@
 # Yeti
 
-A variant of the Goliath species (Player's Handbook, 2024), similar to Goliaths but with more cold resistance. Uncommon but present in [Berksheland](../continents/berksheland/README.md). Playable.
+A variant of the Goliath species (Player's Handbook, 2024), similar to Goliaths but with more cold resistance. Uncommon but present in [Berksheland](../continents/berksheland/README.md). Playable. Their town is [Farkight](../continents/berksheland/cities/farkight/README.md), in the northeast.
 
 > **DRAFT.** Everything under "Traits" is a proposal written by the assistant, not established lore. The owner will revisit it in session 0.
 

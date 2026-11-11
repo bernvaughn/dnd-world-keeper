@@ -1,6 +1,6 @@
 # Ursine
 
-Bipedal bear-folk, native to [Berksheland](../continents/berksheland/README.md), where they live in relatively high numbers. Playable. There is tension between the Ursine and the [Castori](castori.md), who are expanding their digging of [Bruinwood](../items/bruinwood.md) (the Ursine call it Den-oak).
+Bipedal bear-folk, native to [Berksheland](../continents/berksheland/README.md), where they live in relatively high numbers. Playable. Their two major cities are [Frostden](../continents/berksheland/cities/frostden/README.md) in the icy northwest and [Honeyhearth](../continents/berksheland/cities/honeyhearth/README.md) in the comfortable southwest. There is tension between the Ursine and the [Castori](castori.md), who are expanding their digging of [Bruinwood](../items/bruinwood.md) (the Ursine call it Den-oak).
 
 > **DRAFT.** Everything under "Traits" and "Names" is a proposal written by the assistant, not established lore. The owner will revisit it in session 0.
 
