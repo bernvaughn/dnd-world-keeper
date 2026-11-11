@@ -4,9 +4,10 @@ An [Ursine](../../species/ursine.md) woman, a dockhand and regular at [The Thawe
 
 ## The leak
 
-She is the one who leaked the shipment's route to the [Den-Keepers](../factions/den-keepers.md). The players are not expected to know this.
+She is the one who leaked the shipment's route to the [Den-Keepers](../factions/den-keepers.md), by telling [Grask Ironmaw](grask-ironmaw.md). She regrets letting it slip, because she knows he is likely to try something. The players are not expected to know this.
 
 ## Not recorded
 
 - Which wharf she works on, and who she talks to openly.
-- Who in the Den-Keepers she told, and whether she knew about the heirlooms or Grask's temper.
+- How she knows Grask (family, friend, or otherwise), and whether she knew about the heirlooms.
+- Whether she tries to warn anyone or stop it.

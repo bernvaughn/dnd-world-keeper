@@ -4,7 +4,7 @@ A [Castori](../species/castori.md) driver of the Bruinwood shipment in the escor
 
 ## Set-up
 
-Reed's lodge elder (Stillwater lodge, name not recorded) set him up as the driver, assuming no harm would come to him. Whether the elder is right is left to play.
+Reed's lodge elder, [Cedar Stillwater](cedar-stillwater.md), set him up as the driver, assuming no harm would come to him. Whether the elder is right is left to play.
 
 ## Proposed, not confirmed
 
@@ -13,4 +13,3 @@ Reed's lodge elder (Stillwater lodge, name not recorded) set him up as the drive
 ## Not recorded
 
 - Whether he knows he was set up.
-- The name of his lodge elder.
