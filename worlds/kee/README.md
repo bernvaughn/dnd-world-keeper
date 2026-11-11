@@ -1,10 +1,10 @@
 # KEE: Keenan's Tuesday Game
 
-Keenan's Tuesday game, set across the continents of Sead and Xianhua. Sessions are played on Tuesdays.
+Keenan's Tuesday game, set across the continents of Sead, Xianhua, and Berksheland. Sessions are played on Tuesdays.
 
 ## Setting
 
-Sead is an island continent of seven nations, from the rich industrial port of Ardmont to the swamp empire of Murkwallow. Xianhua is a continent southeast of Sead with an oriental theme, known almost only from its map. The gods are sorted into true gods, minor gods, demi-gods and "seed" gods from other realms. From the Book of Sead 2.0.
+Sead is an island continent of seven nations, from the rich industrial port of Ardmont to the swamp empire of Murkwallow. Xianhua is a continent southeast of Sead with an oriental theme, known almost only from its map. Berksheland is a cold continent far north of both, home to the Ursine and to the Castori's Bruinwood digging. The gods are sorted into true gods, minor gods, demi-gods and "seed" gods from other realms. From the Book of Sead 2.0.
 
 ## House rules
 
@@ -41,3 +41,4 @@ From Discord messages. Posted 5/4/2025. The prompts players answered when making
 - [`species/`](species/README.md) species available in Sead
 - [`continents/sead/`](continents/sead/README.md) the continent of Sead
 - [`continents/xianhua/`](continents/xianhua/README.md) the continent of Xianhua
+- [`continents/berksheland/`](continents/berksheland/README.md) the continent of Berksheland

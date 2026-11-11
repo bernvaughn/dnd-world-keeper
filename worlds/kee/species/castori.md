@@ -24,6 +24,10 @@ Beaverkin take a given name at birth and carry their lodge's name for life. Leav
 - **Given names:** Alder, Aspen, Birch, Brook, Cedar, Hazel, Maple, Otter, Reed, Russet, Tamarack, Willow
 - **Lodge names:** Deeproot, Highdam, Smoothstone, Stillwater, Talltimber, Widewater
 
+## Castori in Berksheland
+
+Castori are expanding their operations in [Berksheland](../continents/berksheland/README.md), digging up [Bruinwood](../items/bruinwood.md), an ancient petrified wood under the ice that is especially useful for machine construction. [Gnawfast Excavation Co.](../factions/gnawfast-excavation-co.md) runs the bulk of these operations. The [Ursine](ursine.md), native to Berksheland, are in tension with the Castori over it.
+
 ## Castori in Sead
 
 - **Homeland:** Beaverkin are concentrated in Ardmont but can be found on any river in Sead: wherever there is running water, there is likely a lodge. Dam-towns sell timber, engineering, and flood control to their neighbors.

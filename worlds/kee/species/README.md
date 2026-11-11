@@ -15,4 +15,9 @@ Aasimar, Dragonborn, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling.
 - **Tortle:** Reference: Monsters of the Multiverse.
 - **Kender:** Reference: Dragonlance: Shadow of the Dragon Queen.
 - **Lizardfolk:** Reference: Monsters of the Multiverse.
-- [Castori (Beaverkin)](castori.md): Sead custom. Homeland: Ardmont, and found on any river in Sead.
+- [Castori (Beaverkin)](castori.md): Sead custom. Homeland: Ardmont, and found on any river in Sead. Also active in Berksheland.
+
+## Berksheland's additions
+
+- [Ursine](ursine.md): bipedal bear-folk native to [Berksheland](../continents/berksheland/README.md). Draft traits.
+- [Yeti](yeti.md): a Goliath variant with more cold resistance, uncommon but present in Berksheland. Draft traits.
