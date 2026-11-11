@@ -7,8 +7,8 @@ A tavern near the docks of [Coldanchor](../README.md), where crews swap news. A 
 - [Marrow Thistledown](../../../../../characters/npcs/marrow-thistledown.md): the Ursine owner, who keeps a pot of honey-spiced stew on all day and trades rumors for drinks.
 - [Birch Deeproot](../../../../../characters/npcs/birch-deeproot.md): a tired, pragmatic Castori foreman off a Gnawfast ship.
 - [Old Torvik](../../../../../characters/npcs/old-torvik.md): a Yeti former sailor who drinks mead and talks little.
-- [Pell Quickwater](../../../../../characters/npcs/pell-quickwater.md): a halfling fabric trader newly in from another continent.
-- [Hesper Voss](../../../../../characters/npcs/hesper-voss.md): an Ursine dockhand who resents the Bruinwood shipments.
+- [Pell Quickwater](../../../../../characters/npcs/pell-quickwater.md): a halfling fabric trader newly in from Sead.
+- [Hesper Voss](../../../../../characters/npcs/hesper-voss.md): an Ursine woman and dockhand who resents the Bruinwood shipments.
 
 ## Rumors
 
