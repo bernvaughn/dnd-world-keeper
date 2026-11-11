@@ -15,7 +15,7 @@ A lumpy circle with a split down the middle.
 - [Frostden](cities/frostden/README.md): a major Ursine city in the icy northwest.
 - [Honeyhearth](cities/honeyhearth/README.md): a major Ursine city in the comfortable southwest, more diverse than Frostden, with a large honey-related bear industry.
 - [Farkight](cities/farkight/README.md): the Yeti town, in the northeast.
-- [Coldanchor](cities/coldanchor/README.md): a large, diversely mixed port town in the south, where a lot of trade comes in and out to and from other continents.
+- [Coldanchor](cities/coldanchor/README.md): a large, diversely mixed, independent port town in the south, run by [Lord Butterclaw](../../characters/npcs/lord-butterclaw.md), where a lot of trade comes in and out to and from other continents.
 
 ## Bruinwood
 
