@@ -20,6 +20,8 @@ Only a few Ursine can read the ancient language of the name ridges in [Den-oak](
 
 ## Not recorded
 
+- How they feel about the rest of the Ursine, such as those in [Hearthward](../continents/berksheland/locations/hearthward.md), who are less zealous.
+
 
 - Size, base, and how they get their information.
 - Their relationship to [Lord Butterclaw](../characters/npcs/lord-butterclaw.md) and to [Hesper Voss](../characters/npcs/hesper-voss.md).
