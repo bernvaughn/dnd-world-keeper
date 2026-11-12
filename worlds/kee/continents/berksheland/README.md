@@ -28,3 +28,4 @@ The Castori are expanding their operations in Berksheland, digging up the Bruinw
 ## Locations
 
 - [The Tonguestone](locations/the-tonguestone.md): a large Rosetta-stone-style monolith in the icy north, where the [Den-Keepers](../../factions/den-keepers.md) make pilgrimages to preserve the ancient Ursine language.
+- [Hearthward](locations/hearthward.md): a small, Yeti-run settlement near the Tonguestone, populated mostly by Yetis and Ursine, where pilgrims stay.

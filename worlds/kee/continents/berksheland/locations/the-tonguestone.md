@@ -4,7 +4,7 @@ A large Rosetta-stone-style monolith in the icy north of [Berksheland](../README
 
 ## Pilgrims
 
-A small active settlement nearby, populated mostly by [Yetis](../../../species/yeti.md) and [Ursine](../../../species/ursine.md), is where pilgrims stay on their journey, if they do not camp out in the icy wasteland. Its name is not recorded.
+[Hearthward](hearthward.md), a small active settlement nearby, populated mostly by [Yetis](../../../species/yeti.md) and [Ursine](../../../species/ursine.md), is where pilgrims stay on their journey, if they do not camp out in the icy wasteland.
 
 ## Not recorded
 
