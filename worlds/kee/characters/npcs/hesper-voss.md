@@ -4,11 +4,10 @@ An [Ursine](../../species/ursine.md) woman, a dockhand and regular at [The Thawe
 
 ## The leak
 
-She is the one who leaked the shipment's route to the [Den-Keepers](../factions/den-keepers.md), by telling [Grask Ironmaw](grask-ironmaw.md), her late sister's husband. She regrets letting it slip, because she knows he is likely to try something. This does not come out unless the players interrogate Hesper; she does not volunteer it or warn anyone.
+She is the one who leaked the shipment's route to the [Den-Keepers](../factions/den-keepers.md), by telling [Grask Ironmaw](grask-ironmaw.md), her late sister [Maren Voss](maren-voss.md)'s husband. She regrets letting it slip, because she knows he is likely to try something. This does not come out unless the players interrogate Hesper; she does not volunteer it or warn anyone.
 
 ## Not recorded
 
 - Which wharf she works on, and who she talks to openly.
-- Her sister's name and how she died.
 - Whether she knew about the heirlooms.
 - What she reveals, and how, if interrogated.
