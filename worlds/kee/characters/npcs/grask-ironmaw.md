@@ -2,12 +2,11 @@
 
 An [Ursine](../species/ursine.md) of the [Den-Keepers](../factions/den-keepers.md), and the one member who is a real threat in combat.
 
-Grask lost his wife, [Maren Voss](maren-voss.md), who was the sister of [Hesper Voss](hesper-voss.md). Hesper told him the shipment's route.
+Grask lost his wife, [Maren Voss](maren-voss.md), who was the sister of [Hesper Voss](hesper-voss.md). She died in a tunnel collapse at a Gnawfast dig, which is the root of his grievance. Hesper told him the shipment's route.
 
 ## Proposed, not confirmed
 
 - A huge, silent brawler.
-- His wife's death was tied to the digging.
 
 ## Not recorded
 
