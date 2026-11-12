@@ -12,5 +12,4 @@ Some Den-oak grows with ridges that spell Ursine names in an ancient Ursine lang
 
 - Game properties, rarity, and value (see [magic item pricing](../../../skills/magic-item-pricing/SKILL.md) if it needs a price).
 - What the ancient Ursine language is called.
-- How the monolith in the icy north (see [Den-Keepers](../factions/den-keepers.md)) relates to the buried ruins where the pocket was found.
 - How old it is and what forest it came from.

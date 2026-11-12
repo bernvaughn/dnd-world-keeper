@@ -27,4 +27,4 @@ The Castori are expanding their operations in Berksheland, digging up the Bruinw
 
 ## Locations
 
-- A large Rosetta-stone-style monolith in the icy north, which the [Den-Keepers](../../factions/den-keepers.md) make pilgrimages to in order to observe it and preserve the ancient Ursine language. Name not recorded.
+- [The Tonguestone](locations/the-tonguestone.md): a large Rosetta-stone-style monolith in the icy north, where the [Den-Keepers](../../factions/den-keepers.md) make pilgrimages to preserve the ancient Ursine language.

@@ -11,7 +11,7 @@ A faction of particularly zealous [Ursine](../species/ursine.md) in [Berksheland
 
 ## The ancient language
 
-Only a few Ursine can read the ancient language of the name ridges in [Den-oak](../items/bruinwood.md), but most of the Den-Keepers can, led by Orsa. Those who can't strive to learn. The language is passed down by elders. The Den-Keepers also make pilgrimages to a large Rosetta-stone-style monolith in the icy north, somewhere safe from most people because it is cold and treacherous, to observe the stone and preserve the language.
+Only a few Ursine can read the ancient language of the name ridges in [Den-oak](../items/bruinwood.md), but most of the Den-Keepers can, led by Orsa. Those who can't strive to learn. The language is passed down by elders. The Den-Keepers also make pilgrimages to [The Tonguestone](../continents/berksheland/locations/the-tonguestone.md), a large Rosetta-stone-style monolith in the icy north, somewhere safe from most people because it is cold and treacherous, to observe the stone and preserve the language.
 
 ## Proposed, not confirmed
 
