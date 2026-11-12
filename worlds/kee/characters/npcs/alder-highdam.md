@@ -4,5 +4,5 @@ A [Castori](../../species/castori.md) dockmaster at [Bruinwood Wharf](../../cont
 
 ## Not recorded
 
-- Whether he knows about the name-ridged pieces mixed in with the Bruinwood.
+- Whether he knows about the name-ridged pieces mixed in with the Bruinwood, or shares the general Castori view that the Ursine are making it up.
 - Family and history.

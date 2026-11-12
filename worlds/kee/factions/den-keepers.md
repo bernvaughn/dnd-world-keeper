@@ -16,5 +16,7 @@ A faction of particularly zealous [Ursine](../species/ursine.md) in [Berksheland
 
 ## Not recorded
 
+- Which of them can read the ancient Ursine language.
+
 - Size, base, and how they get their information.
 - Their relationship to [Lord Butterclaw](../characters/npcs/lord-butterclaw.md) and to [Hesper Voss](../characters/npcs/hesper-voss.md).

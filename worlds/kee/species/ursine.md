@@ -6,7 +6,7 @@ Bipedal bear-folk, native to [Berksheland](../continents/berksheland/README.md),
 
 ## Name ridges in Den-oak
 
-Some Den-oak grows with ridges that spell Ursine names in an ancient Ursine language. A piece whose name matches your own is very lucky, and expecting mothers see one as a sign. See [Bruinwood](../items/bruinwood.md).
+Some Den-oak grows with ridges that spell Ursine names in an ancient Ursine language. A piece whose name matches your own is very lucky, and expecting mothers see one as a sign. The language is ancient, so only a few Ursine know what to look for and what the ridges mean. See [Bruinwood](../items/bruinwood.md).
 
 ## Traits (draft)
 
