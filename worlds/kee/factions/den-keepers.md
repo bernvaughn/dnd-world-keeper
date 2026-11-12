@@ -9,6 +9,10 @@ A faction of particularly zealous [Ursine](../species/ursine.md) in [Berksheland
 - Their leader, [Orsa Quillmane](../characters/npcs/orsa-quillmane.md), is willing to negotiate if the players resist.
 - They are after specific pieces of name-ridged Den-oak mixed in with the shipment, which are of great cultural value to the Ursine.
 
+## The ancient language
+
+Only a few Ursine can read the ancient language of the name ridges in [Den-oak](../items/bruinwood.md), but most of the Den-Keepers can, led by Orsa. Those who can't strive to learn.
+
 ## Proposed, not confirmed
 
 - They are not against all Castori; they want the digging stopped.
@@ -16,7 +20,6 @@ A faction of particularly zealous [Ursine](../species/ursine.md) in [Berksheland
 
 ## Not recorded
 
-- Which of them can read the ancient Ursine language.
 
 - Size, base, and how they get their information.
 - Their relationship to [Lord Butterclaw](../characters/npcs/lord-butterclaw.md) and to [Hesper Voss](../characters/npcs/hesper-voss.md).
