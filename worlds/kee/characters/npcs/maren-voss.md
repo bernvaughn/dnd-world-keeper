@@ -4,7 +4,7 @@ An [Ursine](../species/ursine.md), the late wife of [Grask Ironmaw](grask-ironma
 
 ## The heirloom
 
-One of the carved heirlooms in the shipment belonged to Maren's family. This makes the ambush personal for Grask and Hesper.
+One of the carved heirlooms in the shipment belonged to Maren's family, and is a naming token, a small piece that marks a cub's name and place in the family and is passed down through generations. This makes the ambush personal for Grask and Hesper.
 
 ## Not recorded
 

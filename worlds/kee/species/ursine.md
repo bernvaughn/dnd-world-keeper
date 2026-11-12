@@ -4,6 +4,10 @@ Bipedal bear-folk, native to [Berksheland](../continents/berksheland/README.md),
 
 > **DRAFT.** Everything under "Traits" and "Names" is a proposal written by the assistant, not established lore. The owner will revisit it in session 0.
 
+## Name ridges in Den-oak
+
+Some Den-oak grows with ridges that spell Ursine names in an ancient Ursine language. A piece whose name matches your own is very lucky, and expecting mothers see one as a sign. See [Bruinwood](../items/bruinwood.md).
+
 ## Traits (draft)
 
 - **Size.** Medium. Base walking speed 30 feet.

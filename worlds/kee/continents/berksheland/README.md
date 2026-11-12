@@ -19,7 +19,7 @@ A lumpy circle with a split down the middle.
 
 ## Bruinwood
 
-An ancient petrified wood runs deep under Berksheland's ice. It is especially useful for machine construction. The [Castori](../../species/castori.md) call it [Bruinwood](../../items/bruinwood.md); the Ursine call it Den-oak.
+An ancient petrified wood runs deep under Berksheland's ice. It is especially useful for machine construction. The [Castori](../../species/castori.md) call it [Bruinwood](../../items/bruinwood.md); the Ursine call it Den-oak. Some of it grows with ridges that spell Ursine names, which makes it sacred and lucky to them, and the Castori are finding more pockets of it.
 
 ## Tension: Ursine and Castori
 
