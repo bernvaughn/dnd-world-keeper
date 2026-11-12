@@ -4,7 +4,7 @@ An [Ursine](../species/ursine.md) of the [Den-Keepers](../factions/den-keepers.m
 
 Grask lost his wife, [Maren Voss](maren-voss.md), who was the sister of [Hesper Voss](hesper-voss.md). She died in a tunnel collapse at a Gnawfast dig, which is the root of his grievance. Hesper told him the shipment's route.
 
-One of the carved heirlooms in the shipment belonged to Maren's family, which makes the ambush personal for him.
+A piece of name-ridged Den-oak in the shipment bears Maren's name, and probably several "Voss" ones, which makes the ambush personal for him.
 
 ## Proposed, not confirmed
 
