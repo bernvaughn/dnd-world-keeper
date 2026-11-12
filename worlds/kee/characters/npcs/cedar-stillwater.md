@@ -1,6 +1,6 @@
 # Cedar Stillwater
 
-A [Castori](../species/castori.md) elder of Stillwater lodge, who set [Reed Stillwater](reed-stillwater.md) up as the inexperienced driver of the shipment in the escort hook at [Bruinwood Wharf](../continents/berksheland/cities/coldanchor/locations/bruinwood-wharf.md). He assumed no harm would come to Reed. Whether he is right is left to play.
+A [Castori](../species/castori.md) elder of Stillwater lodge, who set [Reed Stillwater](reed-stillwater.md) up as the inexperienced driver of the shipment in the escort hook at [Bruinwood Wharf](../continents/berksheland/cities/coldanchor/locations/bruinwood-wharf.md). He assumed no harm would come to Reed. Whether he is right is left to play. If Reed gets hurt, Cedar turns on the [Den-Keepers](../factions/den-keepers.md), condemning them as a cult and blaming them.
 
 ## Proposed, not confirmed
 
