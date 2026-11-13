@@ -2,6 +2,8 @@
 
 A [Castori](../species/castori.md) elder of Stillwater lodge, who set [Reed Stillwater](reed-stillwater.md) up as the inexperienced driver of the shipment in the escort hook at [Bruinwood Wharf](../continents/berksheland/cities/coldanchor/locations/bruinwood-wharf.md). He assumed no harm would come to Reed. Whether he is right is left to play. If Reed gets hurt, Cedar turns on the [Den-Keepers](../factions/den-keepers.md), condemning them as a cult and blaming them.
 
+Stillwater lodge is worn out by quotas, in contrast to the thriving [Highdam lodge](alder-highdam.md), which is doing well off the same company.
+
 ## Proposed, not confirmed
 
 - Around 52 years old, soft-spoken and stubborn.

@@ -1,8 +1,8 @@
 # Alder Highdam
 
-A [Castori](../../species/castori.md) dockmaster at [Bruinwood Wharf](../../continents/berksheland/cities/coldanchor/locations/bruinwood-wharf.md) in Coldanchor, who runs the loading crews. He is brisk and proud of his work, and is employed by [Gnawfast Excavation Co.](../../factions/gnawfast-excavation-co.md). Highdam is one of the Castori lodge names.
+A [Castori](../../species/castori.md) dockmaster at [Bruinwood Wharf](../../continents/berksheland/cities/coldanchor/locations/bruinwood-wharf.md) in Coldanchor, who runs the loading crews. He is brisk and proud of his work, and is employed by [Gnawfast Excavation Co.](../../factions/gnawfast-excavation-co.md). Highdam is one of the Castori lodge names. He is the cousin of [Tamarack Highdam](tamarack-highdam.md), the foreman at the Cradle Yard, and a member of Highdam lodge, which is thriving off Gnawfast. Like most Castori, he thinks the Ursine's claims about the name ridges are made up.
 
 ## Not recorded
 
-- Whether he knows about the name-ridged pieces mixed in with the Bruinwood, or shares the general Castori view that the Ursine are making it up.
+- Whether he knows the name-ridged pieces are in the shipment.
 - Family and history.

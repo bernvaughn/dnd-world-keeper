@@ -6,6 +6,10 @@ The company town of [Gnawfast Excavation Co.](../../../../factions/gnawfast-exca
 
 A majority Castori and Dwarf population, with a healthy mix of other races. It is a relatively nice place to live, with plenty of work available.
 
+## Lodges
+
+The Castori lodges do not all fare alike under Gnawfast. [Highdam lodge](../../../../characters/npcs/alder-highdam.md) is thriving, while [Stillwater lodge](locations/the-stillwater-lodge.md) is worn out by quotas.
+
 ## Layout (north to south)
 
 - **The Cut:** the northern edge, where tunnels and haul-roads run into the ice. It is the working side, loud and cold.
