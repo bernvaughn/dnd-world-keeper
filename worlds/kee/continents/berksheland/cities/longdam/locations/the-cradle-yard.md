@@ -6,7 +6,10 @@ Where [Bruinwood](../../../../../items/bruinwood.md) is cut, sorted, and numbere
 
 The players visit the Cradle Yard and see name-ridged pieces mixed into the cradles. The Castori foreman who runs the yard thinks the name ridges are neat, but has no idea how important they are to the [Den-Keepers](../../../../../factions/den-keepers.md).
 
+## Characters
+
+- [Tamarack Highdam](../../../../../characters/npcs/tamarack-highdam.md): the Castori foreman.
+
 ## Not recorded
 
-- The foreman's name.
 - Number of workers, and how pieces are sorted.

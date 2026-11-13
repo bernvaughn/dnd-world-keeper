@@ -6,6 +6,10 @@ An [Ursine](../species/ursine.md), the late wife of [Grask Ironmaw](grask-ironma
 
 One piece of naturally name-ridged [Den-oak](../items/bruinwood.md) in the shipment bears Maren Voss's name, and there are probably several "Voss" ones. This makes the ambush personal for Grask and Hesper.
 
+## Known by
+
+- [Elke Marrowfen](elke-marrowfen.md), an Ursine laborer in Longdam who knew her.
+
 ## Not recorded
 
 - When she died, which dig, and whether the collapse really was her fault.
