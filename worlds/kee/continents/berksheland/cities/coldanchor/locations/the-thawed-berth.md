@@ -10,6 +10,8 @@ A tavern near the docks of [Coldanchor](../README.md), where crews swap news. A 
 - [Pell Quickwater](../../../../../characters/npcs/pell-quickwater.md): a halfling fabric trader newly in from Sead.
 - [Hesper Voss](../../../../../characters/npcs/hesper-voss.md): an Ursine woman and dockhand who resents the Bruinwood shipments.
 
+- [Kessik Sunscale](../../../../../characters/npcs/kessik-sunscale.md): a lizardfolk with his chair awkwardly close to the hearth, if the players haven't already met him. He asks them to help him stay warm and to find the Bruinwood.
+
 ## Rumors
 
 Whether each is true is not recorded.
