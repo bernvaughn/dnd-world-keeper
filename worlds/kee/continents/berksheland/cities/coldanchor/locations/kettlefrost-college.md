@@ -2,7 +2,14 @@
 
 A college in [Coldanchor](../README.md) that teaches culinary arts and arcane study together, on the idea that cooking is wizardry done slowly. [Cornelius Tundrafluff](../../../../../characters/pcs/cornelius-tundrafluff.md) studied here.
 
-> **PROPOSAL.** The college, its name, and its courses were proposed by the assistant in session 0 and the owner liked the concept. Only its location in Coldanchor and Cornelius attending are stated by the owner. The rest is not established lore.
+> **PARTLY PROPOSED.** The college and its courses were proposed by the assistant in session 0. The owner confirmed the name, the Coldanchor location, and everything under "Established". The course list is still a proposal.
+
+## Established
+
+- Small but fancy. It is funded by wealthy tourists and travelers.
+- It offers cheaper tuition programs for natives of Berksheland.
+- The student body is mixed.
+- The name Kettlefrost College is confirmed.
 
 ## Courses (proposed)
 
@@ -17,7 +24,6 @@ A college in [Coldanchor](../README.md) that teaches culinary arts and arcane st
 
 ## Not recorded
 
-- Size, prestige, and history.
-- Student body and faculty.
+- History and founding.
+- Faculty.
 - Building, layout, and exact location in the city.
-- Whether the name is final.
