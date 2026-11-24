@@ -15,6 +15,10 @@ People say the sorry sailors who discovered the land let down their cold anchor,
 
 Big docks, a big market, and everything else that makes up a sizeable city. Much of the city is built around sailors and trade. Sailors buy drinks and trinkets native to the continent, and natives come here to buy supplies to distribute throughout the continent.
 
+## People
+
+- [Cornelius Tundrafluff](../../../../characters/pcs/cornelius-tundrafluff.md): a Yeti from Hearthward who runs a snow cone stall at the market.
+
 ## Tension
 
 The Castori and Ursine generally get along here, but some tension exists because the Castori export so much of the native petrified wood.
