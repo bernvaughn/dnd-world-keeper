@@ -4,7 +4,7 @@ A warm-blooded lizardfolk employed by [Sunvault Supply Co.](../factions/sunvault
 
 ## In play
 
-- He may arrive on [The Stubborn Tern](../ships/the-stubborn-tern.md). If the players don't meet him on the ship, they find him in [The Thawed Berth](../continents/berksheland/cities/coldanchor/locations/the-thawed-berth.md) with his chair awkwardly close to the hearth, and he asks them for help: to stay warm, and to find where this "Bruinwood" is.
+- He is a passenger on [The Stubborn Tern](../ships/the-stubborn-tern.md). If the players don't meet him on the ship, they find him in [The Thawed Berth](../continents/berksheland/cities/coldanchor/locations/the-thawed-berth.md) with his chair awkwardly close to the hearth, and he asks them for help: to stay warm, and to find where this "Bruinwood" is.
 - He is here solely to see the Bruinwood in person.
 - He does not know or care about the significance of [Den-oak](../items/bruinwood.md) to the Ursine. He will note the name-ridged pieces in his journal, but only as a curiosity.
 
