@@ -20,4 +20,4 @@ Aasimar, Dragonborn, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling.
 ## Berksheland's additions
 
 - [Ursine](ursine.md): bipedal bear-folk native to [Berksheland](../continents/berksheland/README.md). Draft traits.
-- [Yeti](yeti.md): a Goliath variant with more cold resistance, uncommon but present in Berksheland. Draft traits.
+- [Yeti](yeti.md): a Goliath variant with more cold resistance, uncommon but present in Berksheland.
