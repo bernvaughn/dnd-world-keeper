@@ -30,7 +30,7 @@ Castori are expanding their operations in [Berksheland](../continents/berkshelan
 
 ## Castori in Xianhua
 
-Xianhua has a Castori population. Nothing else about it is recorded yet.
+Xianhua has a Castori population, and the [Castori Clan](../factions/castori-clan.md) there is the formal home of the beavers, essentially their noble house. Nothing else about it is recorded yet.
 
 ## Castori in Sead
 

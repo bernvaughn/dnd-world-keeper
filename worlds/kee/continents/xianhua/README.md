@@ -19,4 +19,4 @@ None recorded yet.
 
 ## Peoples
 
-- Xianhua has a [Castori](../../species/castori.md) population. Nothing else about it is recorded yet. [Ryu Boku](../../characters/pcs/ryu-boku.md), a Castori fighter, is from here.
+- Xianhua has a [Castori](../../species/castori.md) population. The [Castori Clan](../../factions/castori-clan.md) is their formal home there, essentially the noble house of the beavers. Nothing else about the population is recorded yet. [Ryu Boku](../../characters/pcs/ryu-boku.md), a Castori fighter, is from here.
