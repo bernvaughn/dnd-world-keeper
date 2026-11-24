@@ -30,6 +30,7 @@ The Castori and Ursine generally get along here, but some tension exists because
 - [The Harbormaster's Ledger](locations/the-harbormasters-ledger.md): the port office.
 - [Honeycask Exchange](locations/honeycask-exchange.md): a trading hall for honey products.
 - [The Rimed Compass](locations/the-rimed-compass.md): a shop for maps, charts, and cold-weather gear.
+- [Kettlefrost College](locations/kettlefrost-college.md): a college teaching culinary arts and arcane study together. Proposal.
 
 ## Not recorded
 
