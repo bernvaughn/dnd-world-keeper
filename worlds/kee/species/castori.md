@@ -28,6 +28,10 @@ Beaverkin take a given name at birth and carry their lodge's name for life. Leav
 
 Castori are expanding their operations in [Berksheland](../continents/berksheland/README.md), digging up [Bruinwood](../items/bruinwood.md), an ancient petrified wood under the ice that is especially useful for machine construction. [Gnawfast Excavation Co.](../factions/gnawfast-excavation-co.md) runs the bulk of these operations. The [Ursine](ursine.md), native to Berksheland, are in tension with the Castori over it. The Castori treat the wood as simply excellent, and think the Ursine's claims about its name ridges are made up to be hostile.
 
+## Castori in Xianhua
+
+Xianhua has a Castori population. Nothing else about it is recorded yet.
+
 ## Castori in Sead
 
 - **Homeland:** Beaverkin are concentrated in Ardmont but can be found on any river in Sead: wherever there is running water, there is likely a lodge. Dam-towns sell timber, engineering, and flood control to their neighbors.
