@@ -18,6 +18,8 @@ Big docks, a big market, and everything else that makes up a sizeable city. Much
 ## People
 
 - [Cornelius Tundrafluff](../../../../characters/pcs/cornelius-tundrafluff.md): a Yeti from Hearthward who runs a snow cone stall at the market.
+- [Sherpa Tundrafluff](../../../../characters/npcs/sherpa-tundrafluff.md): Cornelius's mother, who moved to Coldanchor to be near him. He lives with her.
+- [Dagny Thornfeld](../../../../characters/npcs/dagny-thornfeld.md): the Ursine owner of The Sleeping Anchor (proposed).
 
 ## Tension
 
@@ -26,6 +28,7 @@ The Castori and Ursine generally get along here, but some tension exists because
 ## Locations
 
 - [The Thawed Berth](locations/the-thawed-berth.md): a tavern near the docks where crews swap news.
+- [The Sleeping Anchor](locations/the-sleeping-anchor.md): an inn near the docks.
 - [Bruinwood Wharf](locations/bruinwood-wharf.md): where Bruinwood is shipped out.
 - [The Harbormaster's Ledger](locations/the-harbormasters-ledger.md): the port office.
 - [Honeycask Exchange](locations/honeycask-exchange.md): a trading hall for honey products.
