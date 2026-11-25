@@ -1,6 +1,6 @@
 # Sherpa Tundrafluff
 
-The mother of [Cornelius Tundrafluff](../pcs/cornelius-tundrafluff.md). She moved to [Coldanchor](../continents/berksheland/cities/coldanchor/README.md) to be closer to him while he attended [Kettlefrost College](../continents/berksheland/cities/coldanchor/locations/kettlefrost-college.md), and stayed after he finished. Cornelius lives with her now.
+The mother of [Cornelius Tundrafluff](../pcs/cornelius-tundrafluff.md). She moved to [Coldanchor](../../continents/berksheland/cities/coldanchor/README.md) to be closer to him while he attended [Kettlefrost College](../continents/berksheland/cities/coldanchor/locations/kettlefrost-college.md), and stayed after he finished. Cornelius lives with her now.
 
 ## Not recorded
 

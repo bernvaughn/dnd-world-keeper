@@ -1,6 +1,6 @@
 # Dagny Thornfeld
 
-An [Ursine](../species/ursine.md) widow who owns [The Sleeping Anchor](../continents/berksheland/cities/coldanchor/locations/the-sleeping-anchor.md), an inn in Coldanchor.
+An [Ursine](../../species/ursine.md) widow who owns [The Sleeping Anchor](../../continents/berksheland/cities/coldanchor/locations/the-sleeping-anchor.md), an inn in Coldanchor.
 
 > **PROPOSED, NOT CONFIRMED.** Dagny and everything about her was suggested by the assistant. The owner asked for her to be recorded, but has not confirmed any detail beyond that.
 
