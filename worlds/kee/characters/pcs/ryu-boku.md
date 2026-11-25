@@ -10,6 +10,7 @@ A [Castori](../../species/castori.md) fighter (he). Player character. Created in
 - Has no den name now (the species file calls it a lodge name). If he survives the cold and proves himself worthy, he will be allowed to join the [Castori Clan](../../factions/castori-clan.md) formally and be given his den name back.
 - He knows nothing about his birth family, what happened to them, or how he ended up in the driftwood that morning.
 - Travels with [Veralyn Fastfeet](veralyn-fastfeet.md) on [The Stubborn Tern](../../ships/the-stubborn-tern.md) to [Coldanchor](../../continents/berksheland/cities/coldanchor/README.md) in [Berksheland](../../continents/berksheland/README.md).
+- In [session 2026-11-24](../../sessions/session-2026-11-24-dm1.md): took a job from [Alder Highdam](../npcs/alder-highdam.md) with [Kessik Sunscale](../npcs/kessik-sunscale.md) to escort a Bruinwood shipment to the wharf, for 150 gp on arrival. Stayed at [The Sleeping Anchor](../../continents/berksheland/cities/coldanchor/locations/the-sleeping-anchor.md), and meets the party at dawn to begin traveling north.
 
 ## Not recorded
 

@@ -16,7 +16,7 @@ The wharf in [Coldanchor](../README.md) where [Bruinwood](../../../../../items/b
 
 ## Adventure hook: the escort (proposed, DM spoilers)
 
-Not yet played. This is a proposal agreed with the owner.
+Accepted in [session 2026-11-24](../../../../../sessions/session-2026-11-24-dm1.md) by [Ryu Boku](../../../../../characters/pcs/ryu-boku.md) and [Kessik Sunscale](../../../../../characters/npcs/kessik-sunscale.md). [Alder Highdam](../../../../../characters/npcs/alder-highdam.md) agreed to pay 150 gp on arrival of the shipment at the wharf. The ambush and everything after it has not been played yet. The rest of this hook is a proposal agreed with the owner.
 
 1. Alder Highdam needs a big Bruinwood shipment moved from [Longdam](../../longdam/README.md) to a ship at the wharf. Recent "accidents" mean he can't trust his own crews, so he hires the players, who have no side in the Castori-Ursine tension, and tells them to avoid the main road. The shipment starts in Longdam, so the players can explore a little first.
 2. Someone has told the [Den-Keepers](../../../../../factions/den-keepers.md) the route. The leak did not come from the shipment crew, who are all worse off if the ambush succeeds. It came from [Hesper Voss](../../../../../characters/npcs/hesper-voss.md), the Ursine dockhand, who told her late sister [Maren Voss](../../../../../characters/npcs/maren-voss.md)'s husband, [Grask Ironmaw](../../../../../characters/npcs/grask-ironmaw.md), and now regrets it, since she knows he is likely to try something. This only comes out if the players interrogate Hesper.
@@ -32,3 +32,4 @@ Not yet played. This is a proposal agreed with the owner.
 ## Not recorded
 
 - Where exactly the Ice Cut lies along the route.
+- The deadline, the route length, and how the 150 gp is split.

@@ -6,6 +6,8 @@ An inn in [Coldanchor](../README.md). [Alder Highdam](../../../../../characters/
 
 ## Established
 
+- [Veralyn Fastfeet](../../../../../characters/pcs/veralyn-fastfeet.md) also got a room, free, by telling Dagny she was on Alder's tab. She stole a fur blanket from the inn, which has not been noticed ([session 2026-11-24](../../../../../sessions/session-2026-11-24-dm1.md)).
+
 - The name is The Sleeping Anchor.
 - It is an inn in Coldanchor.
 - Alder Highdam arranged lodging here for the night for Ryu Boku and Kessik Sunscale.
@@ -20,10 +22,10 @@ An inn in [Coldanchor](../README.md). [Alder Highdam](../../../../../characters/
 
 ## Characters
 
-- [Dagny Thornfeld](../../../../../characters/npcs/dagny-thornfeld.md): the Ursine owner (proposed).
+- [Dagny Thornfeld](../../../../../characters/npcs/dagny-thornfeld.md): the Ursine owner, approved by the owner.
 
 ## Not recorded
 
 - Prices, room count, and layout.
 - Who else was staying here that night.
-- Whether [Veralyn Fastfeet](../../../../../characters/pcs/veralyn-fastfeet.md) stayed here too.
+- Whether Alder actually has a tab here.
