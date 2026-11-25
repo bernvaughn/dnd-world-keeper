@@ -4,7 +4,7 @@ A [Castori](../../species/castori.md) dockmaster at [Bruinwood Wharf](../../cont
 
 ## Session notes
 
-- In [session 2026-11-24](../../sessions/session-2026-11-24-dm1.md): hired [Ryu Boku](../pcs/ryu-boku.md) and [Kessik Sunscale](kessik-sunscale.md) to escort the Bruinwood shipment, agreeing to pay 150 gp on its arrival at the wharf, and put them up at [The Sleeping Anchor](../../continents/berksheland/cities/coldanchor/locations/the-sleeping-anchor.md) for the night. [Veralyn Fastfeet](../pcs/veralyn-fastfeet.md) claimed to be on his tab there; whether he actually has one is not recorded.
+- In [session 2026-11-24](../../sessions/session-2026-11-24-dm1.md): hired [Ryu Boku](../pcs/ryu-boku.md) and [Kessik Sunscale](kessik-sunscale.md) to escort the Bruinwood shipment, agreeing to pay 150 gp on its arrival at the wharf, and put them up at [The Sleeping Anchor](../../continents/berksheland/cities/coldanchor/locations/the-sleeping-anchor.md) for the night. He has a tab there, which he approved for Ryu and Kessik. [Veralyn Fastfeet](../pcs/veralyn-fastfeet.md) claimed to be on it and got a free extra room; he is not expected to look closely enough to notice the extra charge.
 
 ## Not recorded
 

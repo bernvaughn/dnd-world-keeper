@@ -32,4 +32,5 @@ Accepted in [session 2026-11-24](../../../../../sessions/session-2026-11-24-dm1.
 ## Not recorded
 
 - Where exactly the Ice Cut lies along the route.
-- The deadline, the route length, and how the 150 gp is split.
+- The deadline and the route length.
+- How the 150 gp is split. It was not discussed; the owner expects Ryu to take it all and disperse it, and Veralyn to try to steal it.

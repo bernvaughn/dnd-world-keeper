@@ -6,7 +6,7 @@ An inn in [Coldanchor](../README.md). [Alder Highdam](../../../../../characters/
 
 ## Established
 
-- [Veralyn Fastfeet](../../../../../characters/pcs/veralyn-fastfeet.md) also got a room, free, by telling Dagny she was on Alder's tab. She stole a fur blanket from the inn, which has not been noticed ([session 2026-11-24](../../../../../sessions/session-2026-11-24-dm1.md)).
+- [Veralyn Fastfeet](../../../../../characters/pcs/veralyn-fastfeet.md) also got a room, free, by telling Dagny she was on Alder's tab. Alder does have a tab here, which he approved for Ryu and Kessik, and he is not expected to look closely enough to notice the extra room charged to it. She stole a fur blanket from the inn, which has not been noticed ([session 2026-11-24](../../../../../sessions/session-2026-11-24-dm1.md)).
 
 - The name is The Sleeping Anchor.
 - It is an inn in Coldanchor.
@@ -17,7 +17,7 @@ An inn in [Coldanchor](../README.md). [Alder Highdam](../../../../../characters/
 - A long, low building made from salvaged ship timbers, a short walk from [Bruinwood Wharf](bruinwood-wharf.md).
 - A frozen anchor is carved into the lintel, a nod to the town's legend. Guests joke about not getting "stuck" for the night.
 - The hearths are kept lit all night, and the big hearth in the common room is a warm spot for guests who feel the cold.
-- [Gnawfast Excavation Co.](../../../../../factions/gnawfast-excavation-co.md) keeps a standing account here, so Alder's guests get rooms without questions.
+- [Gnawfast Excavation Co.](../../../../../factions/gnawfast-excavation-co.md) is behind Alder's tab here, so his guests get rooms without questions.
 - A shared bunkroom for sailors, plus a few private rooms.
 
 ## Characters
@@ -28,4 +28,4 @@ An inn in [Coldanchor](../README.md). [Alder Highdam](../../../../../characters/
 
 - Prices, room count, and layout.
 - Who else was staying here that night.
-- Whether Alder actually has a tab here.
+- Who ultimately pays Alder's tab.
